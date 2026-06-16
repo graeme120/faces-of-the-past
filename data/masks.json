@@ -575,7 +575,17 @@
         "localShadowFinePixelsRemoved": 0,
         "localEdgeBackdropPixelsRemoved": 0,
         "localEdgeDetachedPixelsRemoved": 0,
-        "qualityStatus": "accepted"
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-16T18:02:26.394Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1565,
+          "sourceHeight": 1800,
+          "sourceWidth": 1445,
+          "width": 1057,
+          "x": 200,
+          "y": 129
+        }
       },
       "imageAnalysis": {
         "originalWidth": 3211,
@@ -988,7 +998,17 @@
         "localShadowFinePixelsRemoved": 0,
         "localEdgeBackdropPixelsRemoved": 0,
         "localEdgeDetachedPixelsRemoved": 0,
-        "qualityStatus": "accepted"
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-16T18:02:45.905Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1216,
+          "sourceHeight": 1800,
+          "sourceWidth": 1582,
+          "width": 901,
+          "x": 350,
+          "y": 272
+        }
       },
       "imageAnalysis": {
         "originalWidth": 3515,
@@ -1424,7 +1444,7 @@
           "x": 235,
           "y": 63
         },
-        "manualEditedAt": "2026-06-16T16:57:36.240Z",
+        "manualEditedAt": "2026-06-16T18:28:59.707Z",
         "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
@@ -2402,7 +2422,17 @@
         "localShadowFinePixelsRemoved": 0,
         "localEdgeBackdropPixelsRemoved": 0,
         "localEdgeDetachedPixelsRemoved": 0,
-        "qualityStatus": "accepted"
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-16T18:00:36.923Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1614,
+          "sourceHeight": 1800,
+          "sourceWidth": 1800,
+          "width": 1134,
+          "x": 370,
+          "y": 184
+        }
       },
       "imageAnalysis": {
         "originalWidth": 4000,
@@ -4185,7 +4215,7 @@
         "localEdgeBackdropPixelsRemoved": 0,
         "localEdgeDetachedPixelsRemoved": 0,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T22:08:55.948Z",
+        "manualEditedAt": "2026-06-16T18:30:18.756Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
           "height": 1224,
@@ -6162,105 +6192,6 @@
       "localThumbnail": "/objects/24143/thumb.webp"
     },
     {
-      "objectID": 22033,
-      "title": "Chin Mask (Ho-Ate)",
-      "objectURL": "https://www.metmuseum.org/art/collection/search/22033",
-      "culture": "Japanese",
-      "period": "",
-      "date": "18th century",
-      "department": "Arms and Armor",
-      "image": "https://images.metmuseum.org/CRDImages/aa/original/LC-04_4_45-002-2.jpg",
-      "imageSmall": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-04_4_45-002-2.jpg",
-      "objectName": "Chin mask (Ho-ate)",
-      "accessionNumber": "04.4.45",
-      "classification": "Armor Parts-Masks",
-      "medium": "Iron",
-      "dimensions": "H. 4 1/2 in. (11.4 cm); W. 6 in. (15.2 cm)",
-      "geography": {
-        "type": "Country of Origin",
-        "city": "",
-        "state": "",
-        "county": "",
-        "country": "Japan",
-        "region": "",
-        "subregion": "",
-        "locale": "",
-        "locus": "",
-        "excavation": ""
-      },
-      "tags": [],
-      "maskMatch": {
-        "strength": "direct",
-        "fields": [
-          "title",
-          "objectName",
-          "classification"
-        ]
-      },
-      "sourceQueries": [
-        "japanese mask",
-        "noh mask",
-        "nōh mask",
-        "yupik dance mask",
-        "helmet mask",
-        "ceremonial mask",
-        "dance mask"
-      ],
-      "isPublicDomain": true,
-      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/22033",
-      "lastFetchedAt": "2026-06-15T17:17:17.417Z",
-      "localOriginal": "/objects/22033/original.jpg",
-      "localCutout": "/objects/22033/cutout.png",
-      "localCutoutUsable": true,
-      "imageProcessing": {
-        "provider": "local",
-        "backgroundRemovedAt": "2026-06-15T17:18:35.268Z",
-        "status": "complete",
-        "internalBackdropComponentsRemoved": 0,
-        "internalBackdropPixelsRemoved": 0,
-        "internalBackdropRejected": false,
-        "localHoleComponentsRemoved": 0,
-        "localHolePixelsRemoved": 0,
-        "localShadowComponentsRemoved": 0,
-        "localShadowPixelsRemoved": 0,
-        "localShadowFinePixelsRemoved": 0,
-        "localEdgeBackdropPixelsRemoved": 0,
-        "localEdgeDetachedPixelsRemoved": 0,
-        "qualityStatus": "accepted",
-        "restoreFrame": {
-          "height": 1440,
-          "sourceHeight": 1440,
-          "sourceWidth": 1800,
-          "width": 1800,
-          "x": 0,
-          "y": 0
-        }
-      },
-      "imageAnalysis": {
-        "originalWidth": 4000,
-        "originalHeight": 3200,
-        "originalMegapixels": 12.8,
-        "cutoutBox": {
-          "x": 0,
-          "y": 3,
-          "width": 419,
-          "height": 330
-        },
-        "cutoutAspectRatio": 0.788,
-        "cutoutFillRatio": 0.311,
-        "symmetryScore": 0.885,
-        "centerScore": 0.992,
-        "imageQualityScore": 1,
-        "frontFacingScore": 0.772,
-        "displayScore": 0.868,
-        "hasVisibleCutout": true,
-        "lowerPriorityObject": false,
-        "displayEligible": true
-      },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z",
-      "localThumbnail": "/objects/22033/thumb.webp"
-    },
-    {
       "objectID": 24156,
       "title": "Half Mask (Menpō)",
       "objectURL": "https://www.metmuseum.org/art/collection/search/24156",
@@ -6327,13 +6258,15 @@
         "localEdgeDetachedPixelsRemoved": 0,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 1440,
+          "height": 1361,
           "sourceHeight": 1440,
           "sourceWidth": 1800,
-          "width": 1800,
-          "x": 0,
-          "y": 0
-        }
+          "width": 1755,
+          "x": 5,
+          "y": 78
+        },
+        "manualEditedAt": "2026-06-16T18:04:37.673Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 4000,
@@ -6534,7 +6467,7 @@
           "x": 83,
           "y": 115
         },
-        "manualEditedAt": "2026-06-15T23:51:42.209Z",
+        "manualEditedAt": "2026-06-16T18:29:17.213Z",
         "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
@@ -8774,7 +8707,7 @@
         "internalBackdropPixelsRemoved": 0,
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-16T14:15:15.758Z",
+        "manualEditedAt": "2026-06-16T18:26:36.632Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
           "height": 1783,
@@ -9938,11 +9871,11 @@
           "height": 1527,
           "sourceHeight": 1800,
           "sourceWidth": 1335,
-          "width": 1086,
-          "x": 0,
+          "width": 1080,
+          "x": 6,
           "y": 248
         },
-        "manualEditedAt": "2026-06-16T14:13:30.355Z",
+        "manualEditedAt": "2026-06-16T18:28:10.745Z",
         "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
