@@ -82,7 +82,7 @@
   },
   "searchTotal": 8998,
   "scannedObjectCount": 1917,
-  "itemCount": 143,
+  "itemCount": 142,
   "items": [
     {
       "objectID": 35152,
@@ -5145,89 +5145,6 @@
       }
     },
     {
-      "objectID": 251751,
-      "title": "Nose from a terracotta mask",
-      "objectURL": "https://www.metmuseum.org/art/collection/search/251751",
-      "culture": "Greek, Laconian",
-      "period": "Archaic",
-      "date": "6th century BCE",
-      "department": "Greek and Roman Art",
-      "image": "https://images.metmuseum.org/CRDImages/gr/original/DP121676.jpg",
-      "imageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP121676.jpg",
-      "objectName": "Mask, fragmentary, nose",
-      "accessionNumber": "24.195.185",
-      "classification": "Terracottas",
-      "medium": "Terracotta",
-      "dimensions": "Other: 2 5/8 in. (6.7 cm)",
-      "geography": {
-        "type": "",
-        "city": "",
-        "state": "",
-        "county": "",
-        "country": "",
-        "region": "",
-        "subregion": "",
-        "locale": "",
-        "locus": "",
-        "excavation": ""
-      },
-      "tags": [],
-      "maskMatch": {
-        "strength": "direct",
-        "fields": [
-          "title",
-          "objectName"
-        ]
-      },
-      "sourceQueries": [
-        "greek mask"
-      ],
-      "diversityGroup": "Ancient Mediterranean and Americas",
-      "isPublicDomain": true,
-      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/251751",
-      "lastFetchedAt": "2026-06-15T23:10:36.509Z",
-      "localOriginal": "/objects/251751/original.jpg",
-      "localCutout": "/objects/251751/cutout.png",
-      "localCutoutUsable": true,
-      "imageProcessing": {
-        "provider": "local",
-        "backgroundRemovedAt": "2026-06-15T23:52:41.182Z",
-        "status": "complete",
-        "internalBackdropComponentsRemoved": 0,
-        "internalBackdropPixelsRemoved": 0,
-        "internalBackdropRejected": false,
-        "localHoleComponentsRemoved": 0,
-        "localHolePixelsRemoved": 0,
-        "localShadowComponentsRemoved": 0,
-        "localShadowPixelsRemoved": 0,
-        "localShadowFinePixelsRemoved": 0,
-        "localEdgeBackdropPixelsRemoved": 0,
-        "localEdgeDetachedPixelsRemoved": 0,
-        "qualityStatus": "accepted"
-      },
-      "imageAnalysis": {
-        "originalWidth": 4000,
-        "originalHeight": 4000,
-        "originalMegapixels": 16,
-        "cutoutBox": {
-          "x": 6,
-          "y": 0,
-          "width": 414,
-          "height": 420
-        },
-        "cutoutAspectRatio": 1.014,
-        "cutoutFillRatio": 0.23,
-        "symmetryScore": 0.895,
-        "centerScore": 0.982,
-        "imageQualityScore": 1,
-        "frontFacingScore": 0.801,
-        "displayScore": 0.884,
-        "hasVisibleCutout": true,
-        "lowerPriorityObject": false,
-        "displayEligible": true
-      }
-    },
-    {
       "objectID": 717574,
       "title": "Mask",
       "objectURL": "https://www.metmuseum.org/art/collection/search/717574",
@@ -9935,13 +9852,15 @@
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 1554,
+          "height": 1527,
           "sourceHeight": 1800,
           "sourceWidth": 1335,
-          "width": 856,
-          "x": 233,
-          "y": 171
-        }
+          "width": 1086,
+          "x": 0,
+          "y": 248
+        },
+        "manualEditedAt": "2026-06-16T14:13:30.355Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 1483,
@@ -12107,6 +12026,6 @@
   "processing": {
     "provider": "local",
     "localObjectsPath": "/objects/{objectID}/",
-    "processedCount": 143
+    "processedCount": 142
   }
 }
