@@ -143,7 +143,8 @@
         "displayEligible": true
       },
       "localCutoutUsable": true,
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/35152/thumb.webp"
     },
     {
       "objectID": 547842,
@@ -234,7 +235,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/547842/thumb.webp"
     },
     {
       "objectID": 708743,
@@ -295,7 +297,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/708743/thumb.webp"
     },
     {
       "objectID": 309855,
@@ -356,7 +359,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/309855/thumb.webp"
     },
     {
       "objectID": 708744,
@@ -415,7 +419,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/708744/thumb.webp"
     },
     {
       "objectID": 735917,
@@ -507,7 +512,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/735917/thumb.webp"
     },
     {
       "objectID": 309790,
@@ -591,7 +597,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/309790/thumb.webp"
     },
     {
       "objectID": 310279,
@@ -650,7 +657,8 @@
         "displayEligible": true
       },
       "localCutoutUsable": true,
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/310279/thumb.webp"
     },
     {
       "objectID": 553763,
@@ -739,7 +747,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/553763/thumb.webp"
     },
     {
       "objectID": 313442,
@@ -825,7 +834,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/313442/thumb.webp"
     },
     {
       "objectID": 19445,
@@ -914,7 +924,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/19445/thumb.webp"
     },
     {
       "objectID": 252587,
@@ -999,7 +1010,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/252587/thumb.webp"
     },
     {
       "objectID": 313441,
@@ -1085,7 +1097,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/313441/thumb.webp"
     },
     {
       "objectID": 315802,
@@ -1175,7 +1188,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/315802/thumb.webp"
     },
     {
       "objectID": 24176,
@@ -1273,7 +1287,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/24176/thumb.webp"
     },
     {
       "objectID": 22518,
@@ -1332,7 +1347,8 @@
         "displayEligible": true
       },
       "localCutoutUsable": true,
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/22518/thumb.webp"
     },
     {
       "objectID": 24173,
@@ -1430,7 +1446,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/24173/thumb.webp"
     },
     {
       "objectID": 22161,
@@ -1489,7 +1506,8 @@
         "displayEligible": true
       },
       "localCutoutUsable": true,
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/22161/thumb.webp"
     },
     {
       "objectID": 312736,
@@ -1546,7 +1564,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/312736/thumb.webp"
     },
     {
       "objectID": 544709,
@@ -1637,7 +1656,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/544709/thumb.webp"
     },
     {
       "objectID": 310072,
@@ -1725,7 +1745,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/310072/thumb.webp"
     },
     {
       "objectID": 307771,
@@ -1784,7 +1805,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/307771/thumb.webp"
     },
     {
       "objectID": 39433,
@@ -1874,7 +1896,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/39433/thumb.webp"
     },
     {
       "objectID": 319552,
@@ -1960,7 +1983,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/319552/thumb.webp"
     },
     {
       "objectID": 78187,
@@ -2046,7 +2070,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/78187/thumb.webp"
     },
     {
       "objectID": 551130,
@@ -2131,7 +2156,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/551130/thumb.webp"
     },
     {
       "objectID": 717585,
@@ -2227,7 +2253,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/717585/thumb.webp"
     },
     {
       "objectID": 311021,
@@ -2309,7 +2336,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/311021/thumb.webp"
     },
     {
       "objectID": 252594,
@@ -2394,7 +2422,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/252594/thumb.webp"
     },
     {
       "objectID": 313445,
@@ -2482,7 +2511,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/313445/thumb.webp"
     },
     {
       "objectID": 751539,
@@ -2542,7 +2572,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/751539/thumb.webp"
     },
     {
       "objectID": 252637,
@@ -2636,7 +2667,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/252637/thumb.webp"
     },
     {
       "objectID": 22469,
@@ -2695,7 +2727,8 @@
         "displayEligible": true
       },
       "localCutoutUsable": true,
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/22469/thumb.webp"
     },
     {
       "objectID": 24155,
@@ -2795,7 +2828,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/24155/thumb.webp"
     },
     {
       "objectID": 309134,
@@ -2885,7 +2919,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/309134/thumb.webp"
     },
     {
       "objectID": 255158,
@@ -2969,7 +3004,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/255158/thumb.webp"
     },
     {
       "objectID": 309959,
@@ -3026,7 +3062,8 @@
         "displayEligible": true
       },
       "localCutoutUsable": true,
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/309959/thumb.webp"
     },
     {
       "objectID": 717572,
@@ -3085,7 +3122,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/717572/thumb.webp"
     },
     {
       "objectID": 255411,
@@ -3172,7 +3210,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/255411/thumb.webp"
     },
     {
       "objectID": 22460,
@@ -3271,7 +3310,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/22460/thumb.webp"
     },
     {
       "objectID": 254436,
@@ -3334,7 +3374,17 @@
         "localShadowFinePixelsRemoved": 0,
         "localEdgeBackdropPixelsRemoved": 0,
         "localEdgeDetachedPixelsRemoved": 0,
-        "qualityStatus": "accepted"
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-16T14:31:16.187Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1702,
+          "sourceHeight": 1800,
+          "sourceWidth": 1800,
+          "width": 1779,
+          "x": 0,
+          "y": 98
+        }
       },
       "imageAnalysis": {
         "originalWidth": 4000,
@@ -3356,7 +3406,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/254436/thumb.webp"
     },
     {
       "objectID": 547257,
@@ -3415,7 +3466,8 @@
         "displayEligible": true
       },
       "localCutoutUsable": true,
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/547257/thumb.webp"
     },
     {
       "objectID": 643506,
@@ -3510,7 +3562,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/643506/thumb.webp"
     },
     {
       "objectID": 313447,
@@ -3598,7 +3651,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/313447/thumb.webp"
     },
     {
       "objectID": 312752,
@@ -3687,7 +3741,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/312752/thumb.webp"
     },
     {
       "objectID": 32028,
@@ -3787,7 +3842,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/32028/thumb.webp"
     },
     {
       "objectID": 22739,
@@ -3846,7 +3902,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/22739/thumb.webp"
     },
     {
       "objectID": 32022,
@@ -3946,7 +4003,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/32022/thumb.webp"
     },
     {
       "objectID": 313446,
@@ -4034,7 +4092,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/313446/thumb.webp"
     },
     {
       "objectID": 32036,
@@ -4134,7 +4193,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/32036/thumb.webp"
     },
     {
       "objectID": 78430,
@@ -4224,7 +4284,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/78430/thumb.webp"
     },
     {
       "objectID": 32037,
@@ -4324,7 +4385,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/32037/thumb.webp"
     },
     {
       "objectID": 50421,
@@ -4413,7 +4475,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/50421/thumb.webp"
     },
     {
       "objectID": 32040,
@@ -4513,7 +4576,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/32040/thumb.webp"
     },
     {
       "objectID": 61260,
@@ -4599,7 +4663,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/61260/thumb.webp"
     },
     {
       "objectID": 22071,
@@ -4699,7 +4764,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/22071/thumb.webp"
     },
     {
       "objectID": 671508,
@@ -4758,7 +4824,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/671508/thumb.webp"
     },
     {
       "objectID": 22520,
@@ -4858,7 +4925,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/22520/thumb.webp"
     },
     {
       "objectID": 24142,
@@ -4958,7 +5026,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/24142/thumb.webp"
     },
     {
       "objectID": 31979,
@@ -5056,7 +5125,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/31979/thumb.webp"
     },
     {
       "objectID": 254988,
@@ -5142,7 +5212,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/254988/thumb.webp"
     },
     {
       "objectID": 717574,
@@ -5201,7 +5272,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/717574/thumb.webp"
     },
     {
       "objectID": 24153,
@@ -5301,7 +5373,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/24153/thumb.webp"
     },
     {
       "objectID": 24167,
@@ -5399,7 +5472,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/24167/thumb.webp"
     },
     {
       "objectID": 22512,
@@ -5499,7 +5573,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/22512/thumb.webp"
     },
     {
       "objectID": 24154,
@@ -5597,7 +5672,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/24154/thumb.webp"
     },
     {
       "objectID": 22516,
@@ -5697,7 +5773,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/22516/thumb.webp"
     },
     {
       "objectID": 32033,
@@ -5797,7 +5874,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/32033/thumb.webp"
     },
     {
       "objectID": 22072,
@@ -5899,7 +5977,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/22072/thumb.webp"
     },
     {
       "objectID": 312262,
@@ -5983,7 +6062,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/312262/thumb.webp"
     },
     {
       "objectID": 24143,
@@ -6042,7 +6122,8 @@
         "displayEligible": true
       },
       "localCutoutUsable": true,
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/24143/thumb.webp"
     },
     {
       "objectID": 22033,
@@ -6140,7 +6221,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/22033/thumb.webp"
     },
     {
       "objectID": 24156,
@@ -6238,7 +6320,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/24156/thumb.webp"
     },
     {
       "objectID": 24175,
@@ -6336,7 +6419,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/24175/thumb.webp"
     },
     {
       "objectID": 32024,
@@ -6436,7 +6520,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/32024/thumb.webp"
     },
     {
       "objectID": 752034,
@@ -6495,7 +6580,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/752034/thumb.webp"
     },
     {
       "objectID": 22034,
@@ -6593,7 +6679,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/22034/thumb.webp"
     },
     {
       "objectID": 24168,
@@ -6691,7 +6778,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/24168/thumb.webp"
     },
     {
       "objectID": 669443,
@@ -6784,7 +6872,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/669443/thumb.webp"
     },
     {
       "objectID": 311167,
@@ -6872,7 +6961,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/311167/thumb.webp"
     },
     {
       "objectID": 310647,
@@ -6931,7 +7021,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/310647/thumb.webp"
     },
     {
       "objectID": 257595,
@@ -7026,7 +7117,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/257595/thumb.webp"
     },
     {
       "objectID": 24160,
@@ -7126,7 +7218,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/24160/thumb.webp"
     },
     {
       "objectID": 310691,
@@ -7214,7 +7307,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/310691/thumb.webp"
     },
     {
       "objectID": 552325,
@@ -7301,7 +7395,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/552325/thumb.webp"
     },
     {
       "objectID": 255198,
@@ -7395,7 +7490,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/255198/thumb.webp"
     },
     {
       "objectID": 32032,
@@ -7493,7 +7589,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/32032/thumb.webp"
     },
     {
       "objectID": 241076,
@@ -7584,7 +7681,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/241076/thumb.webp"
     },
     {
       "objectID": 190001,
@@ -7670,7 +7768,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/190001/thumb.webp"
     },
     {
       "objectID": 254758,
@@ -7754,7 +7853,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": true,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/254758/thumb.webp"
     },
     {
       "objectID": 545147,
@@ -7844,7 +7944,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/545147/thumb.webp"
     },
     {
       "objectID": 254759,
@@ -7929,7 +8030,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": true,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/254759/thumb.webp"
     },
     {
       "objectID": 310486,
@@ -7988,7 +8090,8 @@
         "lowerPriorityObject": true,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/310486/thumb.webp"
     },
     {
       "objectID": 315131,
@@ -8076,7 +8179,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/315131/thumb.webp"
     },
     {
       "objectID": 319074,
@@ -8163,7 +8267,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/319074/thumb.webp"
     },
     {
       "objectID": 190449,
@@ -8251,7 +8356,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/190449/thumb.webp"
     },
     {
       "objectID": 310596,
@@ -8341,7 +8447,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/310596/thumb.webp"
     },
     {
       "objectID": 316699,
@@ -8400,7 +8507,8 @@
         "displayEligible": true
       },
       "localCutoutUsable": true,
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/316699/thumb.webp"
     },
     {
       "objectID": 318460,
@@ -8482,7 +8590,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/318460/thumb.webp"
     },
     {
       "objectID": 315280,
@@ -8572,7 +8681,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/315280/thumb.webp"
     },
     {
       "objectID": 189831,
@@ -8658,7 +8768,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/189831/thumb.webp"
     },
     {
       "objectID": 317889,
@@ -8748,7 +8859,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/317889/thumb.webp"
     },
     {
       "objectID": 257613,
@@ -8837,7 +8949,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/257613/thumb.webp"
     },
     {
       "objectID": 313266,
@@ -8927,7 +9040,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/313266/thumb.webp"
     },
     {
       "objectID": 315308,
@@ -9015,7 +9129,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/315308/thumb.webp"
     },
     {
       "objectID": 312759,
@@ -9074,7 +9189,8 @@
         "lowerPriorityObject": true,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/312759/thumb.webp"
     },
     {
       "objectID": 314592,
@@ -9164,7 +9280,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/314592/thumb.webp"
     },
     {
       "objectID": 310350,
@@ -9223,7 +9340,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/310350/thumb.webp"
     },
     {
       "objectID": 318766,
@@ -9320,7 +9438,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/318766/thumb.webp"
     },
     {
       "objectID": 316445,
@@ -9408,7 +9527,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/316445/thumb.webp"
     },
     {
       "objectID": 60228,
@@ -9465,7 +9585,8 @@
         "displayEligible": true
       },
       "localCutoutUsable": true,
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/60228/thumb.webp"
     },
     {
       "objectID": 38622,
@@ -9562,7 +9683,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/38622/thumb.webp"
     },
     {
       "objectID": 317707,
@@ -9654,7 +9776,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/317707/thumb.webp"
     },
     {
       "objectID": 317784,
@@ -9742,7 +9865,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/317784/thumb.webp"
     },
     {
       "objectID": 318622,
@@ -9801,7 +9925,8 @@
         "displayEligible": true
       },
       "localCutoutUsable": true,
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/318622/thumb.webp"
     },
     {
       "objectID": 317783,
@@ -9891,7 +10016,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/317783/thumb.webp"
     },
     {
       "objectID": 313565,
@@ -9948,7 +10074,8 @@
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "localCutoutUsable": true
+      "localCutoutUsable": true,
+      "localThumbnail": "/objects/313565/thumb.webp"
     },
     {
       "objectID": 49716,
@@ -10042,7 +10169,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/49716/thumb.webp"
     },
     {
       "objectID": 83989,
@@ -10099,7 +10227,8 @@
         "displayEligible": true
       },
       "localCutoutUsable": false,
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/83989/thumb.webp"
     },
     {
       "objectID": 250561,
@@ -10185,7 +10314,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/250561/thumb.webp"
     },
     {
       "objectID": 313255,
@@ -10275,7 +10405,8 @@
         "displayEligible": true,
         "manualFallbackOriginal": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/313255/thumb.webp"
     },
     {
       "objectID": 49714,
@@ -10359,7 +10490,8 @@
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
-      }
+      },
+      "localThumbnail": "/objects/49714/thumb.webp"
     },
     {
       "objectID": 189776,
@@ -10443,7 +10575,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/189776/thumb.webp"
     },
     {
       "objectID": 189772,
@@ -10527,7 +10660,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/189772/thumb.webp"
     },
     {
       "objectID": 190064,
@@ -10611,7 +10745,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/190064/thumb.webp"
     },
     {
       "objectID": 189766,
@@ -10695,7 +10830,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/189766/thumb.webp"
     },
     {
       "objectID": 190450,
@@ -10783,7 +10919,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/190450/thumb.webp"
     },
     {
       "objectID": 189800,
@@ -10867,7 +11004,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/189800/thumb.webp"
     },
     {
       "objectID": 207493,
@@ -10954,7 +11092,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/207493/thumb.webp"
     },
     {
       "objectID": 311950,
@@ -11011,7 +11150,8 @@
         "displayEligible": false
       },
       "localCutoutUsable": true,
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/311950/thumb.webp"
     },
     {
       "objectID": 54489,
@@ -11099,7 +11239,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/54489/thumb.webp"
     },
     {
       "objectID": 248805,
@@ -11186,7 +11327,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/248805/thumb.webp"
     },
     {
       "objectID": 812107,
@@ -11272,7 +11414,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/812107/thumb.webp"
     },
     {
       "objectID": 314534,
@@ -11358,7 +11501,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/314534/thumb.webp"
     },
     {
       "objectID": 313443,
@@ -11447,7 +11591,8 @@
         "manualFallbackOriginal": true,
         "manualDisplayExcluded": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/313443/thumb.webp"
     },
     {
       "objectID": 313444,
@@ -11536,7 +11681,8 @@
         "manualFallbackOriginal": true,
         "manualDisplayExcluded": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/313444/thumb.webp"
     },
     {
       "objectID": 221775,
@@ -11620,7 +11766,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/221775/thumb.webp"
     },
     {
       "objectID": 314344,
@@ -11707,7 +11854,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/314344/thumb.webp"
     },
     {
       "objectID": 311960,
@@ -11795,7 +11943,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/311960/thumb.webp"
     },
     {
       "objectID": 37645,
@@ -11852,7 +12001,8 @@
         "displayEligible": false
       },
       "localCutoutUsable": true,
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/37645/thumb.webp"
     },
     {
       "objectID": 221776,
@@ -11936,7 +12086,8 @@
         "lowerPriorityObject": false,
         "displayEligible": false
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z"
+      "lastSeenAt": "2026-06-15T22:06:39.987Z",
+      "localThumbnail": "/objects/221776/thumb.webp"
     }
   ],
   "processedAt": "2026-06-15T23:52:49.045Z",
