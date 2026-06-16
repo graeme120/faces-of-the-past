@@ -1417,13 +1417,15 @@
         "localEdgeDetachedPixelsRemoved": 0,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 1440,
+          "height": 1295,
           "sourceHeight": 1440,
           "sourceWidth": 1800,
-          "width": 1650,
-          "x": 150,
-          "y": 0
-        }
+          "width": 1542,
+          "x": 235,
+          "y": 63
+        },
+        "manualEditedAt": "2026-06-16T16:57:36.240Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 3973,
@@ -2541,13 +2543,15 @@
         "localShadowPixelsRemoved": 248564,
         "localShadowFinePixelsRemoved": 41890,
         "restoreFrame": {
-          "height": 1420,
+          "height": 1280,
           "sourceHeight": 1800,
           "sourceWidth": 1572,
-          "width": 1038,
-          "x": 252,
-          "y": 198
-        }
+          "width": 898,
+          "x": 322,
+          "y": 268
+        },
+        "manualEditedAt": "2026-06-16T16:48:17.252Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "localOriginal": "/objects/751539/original.jpg",
       "localCutout": "/objects/751539/cutout.png",
@@ -2982,7 +2986,17 @@
         "localShadowFinePixelsRemoved": 0,
         "localEdgeBackdropPixelsRemoved": 0,
         "localEdgeDetachedPixelsRemoved": 0,
-        "qualityStatus": "accepted"
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-16T15:28:57.389Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1405,
+          "sourceHeight": 1800,
+          "sourceWidth": 1350,
+          "width": 1163,
+          "x": 49,
+          "y": 369
+        }
       },
       "imageAnalysis": {
         "originalWidth": 3000,
@@ -3090,15 +3104,15 @@
         "internalBackdropPixelsRemoved": 0,
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T17:13:38.194Z",
+        "manualEditedAt": "2026-06-16T16:00:19.998Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
-          "height": 1474,
+          "height": 1369,
           "sourceHeight": 1800,
           "sourceWidth": 1513,
-          "width": 1236,
-          "x": 99,
-          "y": 170
+          "width": 1513,
+          "x": 0,
+          "y": 242
         }
       },
       "imageAnalysis": {
@@ -3188,7 +3202,17 @@
         "localShadowFinePixelsRemoved": 0,
         "localEdgeBackdropPixelsRemoved": 0,
         "localEdgeDetachedPixelsRemoved": 0,
-        "qualityStatus": "accepted"
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-16T16:55:06.982Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1457,
+          "sourceHeight": 1800,
+          "sourceWidth": 1222,
+          "width": 788,
+          "x": 223,
+          "y": 186
+        }
       },
       "imageAnalysis": {
         "originalWidth": 2716,
@@ -5096,13 +5120,15 @@
         "localEdgeDetachedPixelsRemoved": 0,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 1440,
+          "height": 1393,
           "sourceHeight": 1440,
           "sourceWidth": 1800,
-          "width": 1800,
-          "x": 0,
-          "y": 0
-        }
+          "width": 1693,
+          "x": 54,
+          "y": 36
+        },
+        "manualEditedAt": "2026-06-16T15:56:30.110Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 4000,
@@ -5190,7 +5216,17 @@
         "localShadowFinePixelsRemoved": 0,
         "localEdgeBackdropPixelsRemoved": 0,
         "localEdgeDetachedPixelsRemoved": 0,
-        "qualityStatus": "accepted"
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-16T17:03:32.461Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1552,
+          "sourceHeight": 1800,
+          "sourceWidth": 1300,
+          "width": 1295,
+          "x": 0,
+          "y": 157
+        }
       },
       "imageAnalysis": {
         "originalWidth": 2888,
@@ -6390,13 +6426,15 @@
         "localEdgeDetachedPixelsRemoved": 0,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 1440,
+          "height": 1407,
           "sourceHeight": 1440,
           "sourceWidth": 1800,
-          "width": 1800,
-          "x": 0,
-          "y": 0
-        }
+          "width": 1748,
+          "x": 41,
+          "y": 16
+        },
+        "manualEditedAt": "2026-06-16T16:53:56.507Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 4000,
@@ -8058,15 +8096,15 @@
         "internalBackdropPixelsRemoved": 0,
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T17:11:41.439Z",
+        "manualEditedAt": "2026-06-16T16:59:08.262Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
-          "height": 1605,
+          "height": 1441,
           "sourceHeight": 1608,
           "sourceWidth": 1800,
-          "width": 1380,
-          "x": 172,
-          "y": 3
+          "width": 1215,
+          "x": 255,
+          "y": 86
         }
       },
       "imageAnalysis": {
@@ -8415,7 +8453,7 @@
         "internalBackdropPixelsRemoved": 0,
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T14:23:15.071Z",
+        "manualEditedAt": "2026-06-16T16:51:50.893Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
           "height": 1516,
@@ -9100,13 +9138,15 @@
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 1239,
+          "height": 1174,
           "sourceHeight": 1239,
           "sourceWidth": 1678,
-          "width": 1620,
-          "x": 55,
-          "y": 0
-        }
+          "width": 1678,
+          "x": 0,
+          "y": 65
+        },
+        "manualEditedAt": "2026-06-16T16:52:56.676Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 1678,
@@ -9157,15 +9197,15 @@
         "internalBackdropPixelsRemoved": 0,
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T14:20:56.310Z",
+        "manualEditedAt": "2026-06-16T15:57:41.671Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
-          "height": 1568,
+          "height": 1412,
           "sourceHeight": 1577,
           "sourceWidth": 1800,
-          "width": 1413,
-          "x": 107,
-          "y": 0
+          "width": 1257,
+          "x": 185,
+          "y": 75
         }
       },
       "imageAnalysis": {
@@ -9555,13 +9595,15 @@
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 925,
+          "height": 907,
           "sourceHeight": 925,
           "sourceWidth": 760,
-          "width": 760,
-          "x": 0,
-          "y": 0
-        }
+          "width": 735,
+          "x": 16,
+          "y": 16
+        },
+        "manualEditedAt": "2026-06-16T15:29:42.431Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 760,
@@ -10045,13 +10087,15 @@
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 363,
+          "height": 328,
           "sourceHeight": 363,
           "sourceWidth": 500,
-          "width": 500,
-          "x": 0,
-          "y": 0
-        }
+          "width": 467,
+          "x": 18,
+          "y": 17
+        },
+        "manualEditedAt": "2026-06-16T16:50:38.878Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 500,
