@@ -82,7 +82,7 @@
   },
   "searchTotal": 8998,
   "scannedObjectCount": 1917,
-  "itemCount": 142,
+  "itemCount": 141,
   "items": [
     {
       "objectID": 35152,
@@ -8485,89 +8485,6 @@
       }
     },
     {
-      "objectID": 310343,
-      "title": "Imina Na (Great Mask)",
-      "objectURL": "https://www.metmuseum.org/art/collection/search/310343",
-      "culture": "Dogon peoples",
-      "period": "",
-      "date": "18th–19th century",
-      "department": "The Michael C. Rockefeller Wing",
-      "image": "https://images.metmuseum.org/CRDImages/ao/original/DP-39209-001.jpg",
-      "imageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-39209-001.jpg",
-      "objectName": "Mask",
-      "accessionNumber": "1977.394.33",
-      "classification": "Wood-Sculpture",
-      "medium": "Wood, pigment",
-      "dimensions": "H. 110 in. × W. 6 3/4 in. × D. 7 in. (279.4 × 17.1 × 17.8 cm)",
-      "geography": {
-        "type": "",
-        "city": "",
-        "state": "",
-        "county": "",
-        "country": "Mali",
-        "region": "Bandiagara Escarpment",
-        "subregion": "",
-        "locale": "",
-        "locus": "",
-        "excavation": ""
-      },
-      "tags": [],
-      "maskMatch": {
-        "strength": "direct",
-        "fields": [
-          "title",
-          "objectName"
-        ]
-      },
-      "sourceQueries": [
-        "african mask"
-      ],
-      "diversityGroup": "African",
-      "isPublicDomain": true,
-      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/310343",
-      "lastFetchedAt": "2026-06-15T23:10:36.509Z",
-      "localOriginal": "/objects/310343/original.jpg",
-      "localCutout": "/objects/310343/cutout.png",
-      "localCutoutUsable": true,
-      "imageProcessing": {
-        "provider": "local",
-        "backgroundRemovedAt": "2026-06-15T23:52:34.316Z",
-        "status": "complete",
-        "internalBackdropComponentsRemoved": 0,
-        "internalBackdropPixelsRemoved": 0,
-        "internalBackdropRejected": false,
-        "localHoleComponentsRemoved": 0,
-        "localHolePixelsRemoved": 0,
-        "localShadowComponentsRemoved": 0,
-        "localShadowPixelsRemoved": 0,
-        "localShadowFinePixelsRemoved": 0,
-        "localEdgeBackdropPixelsRemoved": 0,
-        "localEdgeDetachedPixelsRemoved": 0,
-        "qualityStatus": "accepted"
-      },
-      "imageAnalysis": {
-        "originalWidth": 1050,
-        "originalHeight": 4000,
-        "originalMegapixels": 4.2,
-        "cutoutBox": {
-          "x": 92,
-          "y": 60,
-          "width": 160,
-          "height": 1677
-        },
-        "cutoutAspectRatio": 10.481,
-        "cutoutFillRatio": 0.454,
-        "symmetryScore": 0.804,
-        "centerScore": 0.995,
-        "imageQualityScore": 0.682,
-        "frontFacingScore": 0.67,
-        "displayScore": 0.675,
-        "hasVisibleCutout": true,
-        "lowerPriorityObject": false,
-        "displayEligible": true
-      }
-    },
-    {
       "objectID": 315280,
       "title": "Mask",
       "objectURL": "https://www.metmuseum.org/art/collection/search/315280",
@@ -8709,7 +8626,7 @@
         "internalBackdropPixelsRemoved": 0,
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T17:11:19.188Z",
+        "manualEditedAt": "2026-06-16T14:15:15.758Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
           "height": 1783,
@@ -12026,6 +11943,6 @@
   "processing": {
     "provider": "local",
     "localObjectsPath": "/objects/{objectID}/",
-    "processedCount": 142
+    "processedCount": 141
   }
 }
