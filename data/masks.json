@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T23:29:15.994Z",
+  "generatedAt": "2026-06-17T15:07:11.275Z",
   "query": "native american mask",
   "queryTerms": [
     "native american mask",
@@ -13,7 +13,7 @@
     "ornamental mask",
     "maskette"
   ],
-  "targetCount": 148,
+  "targetCount": 169,
   "source": {
     "name": "The Metropolitan Museum of Art Collection API",
     "searchResults": [
@@ -82,7 +82,7 @@
   },
   "searchTotal": 8998,
   "scannedObjectCount": 1917,
-  "itemCount": 141,
+  "itemCount": 169,
   "items": [
     {
       "objectID": 35152,
@@ -265,15 +265,15 @@
         "localHoleComponentsRemoved": 0,
         "localHolePixelsRemoved": 0,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T14:01:20.388Z",
+        "manualEditedAt": "2026-06-17T16:34:31.435Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
-          "height": 1372,
+          "height": 1236,
           "sourceHeight": 1534,
           "sourceWidth": 1800,
-          "width": 1148,
-          "x": 338,
-          "y": 94
+          "width": 1012,
+          "x": 406,
+          "y": 162
         }
       },
       "imageAnalysis": {
@@ -363,6 +363,104 @@
       "localThumbnail": "/objects/309855/thumb.webp"
     },
     {
+      "objectID": 310248,
+      "title": "Helmet crest",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/310248",
+      "culture": "Kom kingdom, Laiko",
+      "period": "",
+      "date": "1830–55",
+      "department": "The Michael C. Rockefeller Wing",
+      "image": "https://images.metmuseum.org/CRDImages/ao/original/DP-25418-001.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-25418-001.jpg",
+      "objectName": "Mask",
+      "accessionNumber": "1977.45",
+      "classification": "Wood-Sculpture",
+      "medium": "Wood, iron, copper, pigment(?), wax",
+      "dimensions": "H. 20 × W. 17 1/2 × D. 17 3/4 in. (50.8 × 44.5 × 45.1 cm)",
+      "geography": {
+        "type": "",
+        "city": "Laikom",
+        "state": "",
+        "county": "",
+        "country": "Cameroon",
+        "region": "Grassfields region",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Hands",
+        "Heads"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "Kom kingdom, Laiko",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/310248",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:30.258Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-18T14:38:08.443Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1618,
+          "sourceHeight": 1800,
+          "sourceWidth": 1537,
+          "width": 1175,
+          "x": 198,
+          "y": 182
+        }
+      },
+      "localOriginal": "/objects/310248/original.jpg",
+      "localCutout": "/objects/310248/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 3415,
+        "originalHeight": 4000,
+        "originalMegapixels": 13.66,
+        "cutoutBox": {
+          "x": 27,
+          "y": 27,
+          "width": 366,
+          "height": 503
+        },
+        "cutoutAspectRatio": 1.374,
+        "cutoutFillRatio": 0.691,
+        "symmetryScore": 0.952,
+        "centerScore": 0.978,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.957,
+        "displayScore": 0.975,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/310248/thumb.webp"
+    },
+    {
       "objectID": 708744,
       "title": "Mask",
       "objectURL": "https://www.metmuseum.org/art/collection/search/708744",
@@ -421,6 +519,104 @@
       },
       "localCutoutUsable": true,
       "localThumbnail": "/objects/708744/thumb.webp"
+    },
+    {
+      "objectID": 188829,
+      "title": "Death mask of Napoleon I",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/188829",
+      "culture": "Italian",
+      "period": "",
+      "date": "cast in plaster 1821, executed in bronze ca. 1833",
+      "department": "European Sculpture and Decorative Arts",
+      "image": "https://images.metmuseum.org/CRDImages/es/original/2402.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/2402.jpg",
+      "objectName": "Death mask",
+      "accessionNumber": "03.13",
+      "classification": "Sculpture-Bronze",
+      "medium": "Bronze",
+      "dimensions": "Overall: 7 1/8 × 6 1/2 × 13 3/4 in. (18.1 × 16.5 × 34.9 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Masks",
+        "Napoleon I"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "Italian",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/188829",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:49.307Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-17T16:36:46.915Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1749,
+          "sourceHeight": 1800,
+          "sourceWidth": 1406,
+          "width": 1363,
+          "x": 21,
+          "y": 24
+        }
+      },
+      "localOriginal": "/objects/188829/original.jpg",
+      "localCutout": "/objects/188829/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 3124,
+        "originalHeight": 4000,
+        "originalMegapixels": 12.5,
+        "cutoutBox": {
+          "x": 6,
+          "y": 7,
+          "width": 408,
+          "height": 525
+        },
+        "cutoutAspectRatio": 1.287,
+        "cutoutFillRatio": 0.759,
+        "symmetryScore": 0.895,
+        "centerScore": 0.997,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.946,
+        "displayScore": 0.969,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/188829/thumb.webp"
     },
     {
       "objectID": 735917,
@@ -671,6 +867,200 @@
       "localThumbnail": "/objects/310279/thumb.webp"
     },
     {
+      "objectID": 320843,
+      "title": "Twisted Face Mask",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/320843",
+      "culture": "Veracruz",
+      "period": "",
+      "date": "600–900 CE",
+      "department": "The Michael C. Rockefeller Wing",
+      "image": "https://images.metmuseum.org/CRDImages/ao/original/DP-12565-001.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-12565-001.jpg",
+      "objectName": "Mask",
+      "accessionNumber": "2011.600",
+      "classification": "Ceramics-Implements",
+      "medium": "Ceramic, pigment",
+      "dimensions": "H. 7 1/8 x W. 5 3/4 in. (18.1 x 14.6 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "Veracruz",
+        "county": "",
+        "country": "Mexico",
+        "region": "Mesoamerica",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Faces"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "Veracruz",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/320843",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:42.580Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-18T15:49:46.855Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1431,
+          "sourceHeight": 1800,
+          "sourceWidth": 1350,
+          "width": 1350,
+          "x": 0,
+          "y": 236
+        }
+      },
+      "localOriginal": "/objects/320843/original.jpg",
+      "localCutout": "/objects/320843/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 3000,
+        "originalHeight": 4000,
+        "originalMegapixels": 12,
+        "cutoutBox": {
+          "x": 25,
+          "y": 25,
+          "width": 370,
+          "height": 464
+        },
+        "cutoutAspectRatio": 1.254,
+        "cutoutFillRatio": 0.794,
+        "symmetryScore": 0.9,
+        "centerScore": 0.996,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.942,
+        "displayScore": 0.966,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/320843/thumb.webp"
+    },
+    {
+      "objectID": 547830,
+      "title": "Funerary Mask",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/547830",
+      "culture": "",
+      "period": "Roman Period",
+      "date": "A.D. 1st–4th century",
+      "department": "Egyptian Art",
+      "image": "https://images.metmuseum.org/CRDImages/eg/original/DP266858.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/eg/web-large/DP266858.jpg",
+      "objectName": "Mask, girl",
+      "accessionNumber": "00.2.20",
+      "classification": "",
+      "medium": "Plaster, paint",
+      "dimensions": "h. 18.3 cm (7 3/16 in); w. 14 cm (5 1/2 in)",
+      "geography": {
+        "type": "From",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "Egypt",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Masks"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "manual replacement",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met API manual underrepresented mask replacements"
+      ],
+      "diversityGroup": "Egypt",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/547830",
+      "lastFetchedAt": "2026-06-17T15:18:57.212Z",
+      "localOriginal": "/objects/547830/original.jpg",
+      "localCutout": "/objects/547830/cutout.png",
+      "localCutoutUsable": true,
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:19:23.755Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-17T17:15:40.832Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1800,
+          "sourceHeight": 1800,
+          "sourceWidth": 1384,
+          "width": 1002,
+          "x": 155,
+          "y": 0
+        }
+      },
+      "imageAnalysis": {
+        "originalWidth": 2975,
+        "originalHeight": 3868,
+        "originalMegapixels": 11.51,
+        "cutoutBox": {
+          "x": 0,
+          "y": 0,
+          "width": 420,
+          "height": 546
+        },
+        "cutoutAspectRatio": 1.3,
+        "cutoutFillRatio": 0.757,
+        "symmetryScore": 0.879,
+        "centerScore": 0.996,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.941,
+        "displayScore": 0.966,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/547830/thumb.webp"
+    },
+    {
       "objectID": 553763,
       "title": "Funerary Mask of the Overseeer of Builders Amenhotep",
       "objectURL": "https://www.metmuseum.org/art/collection/search/553763",
@@ -759,6 +1149,103 @@
       },
       "lastSeenAt": "2026-06-15T22:06:39.987Z",
       "localThumbnail": "/objects/553763/thumb.webp"
+    },
+    {
+      "objectID": 547836,
+      "title": "Funerary Mask",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/547836",
+      "culture": "",
+      "period": "Roman Period",
+      "date": "A.D. 2nd century",
+      "department": "Egyptian Art",
+      "image": "https://images.metmuseum.org/CRDImages/eg/original/DP266870.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/eg/web-large/DP266870.jpg",
+      "objectName": "Mask, woman",
+      "accessionNumber": "00.2.26",
+      "classification": "",
+      "medium": "Plaster, paint",
+      "dimensions": "h. 19 cm (7 1/2 in); w. 10.5 cm (4 1/8 in)",
+      "geography": {
+        "type": "From",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "Egypt",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Masks"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "manual replacement",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met API manual underrepresented mask replacements"
+      ],
+      "diversityGroup": "Egypt",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/547836",
+      "lastFetchedAt": "2026-06-17T15:18:57.305Z",
+      "localOriginal": "/objects/547836/original.jpg",
+      "localCutout": "/objects/547836/cutout.png",
+      "localCutoutUsable": true,
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:19:25.066Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-17T16:37:51.353Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1634,
+          "sourceHeight": 1800,
+          "sourceWidth": 1402,
+          "width": 1142,
+          "x": 1,
+          "y": 163
+        }
+      },
+      "imageAnalysis": {
+        "originalWidth": 3004,
+        "originalHeight": 3857,
+        "originalMegapixels": 11.59,
+        "cutoutBox": {
+          "x": 0,
+          "y": 0,
+          "width": 420,
+          "height": 539
+        },
+        "cutoutAspectRatio": 1.283,
+        "cutoutFillRatio": 0.925,
+        "symmetryScore": 0.876,
+        "centerScore": 0.996,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.936,
+        "displayScore": 0.963,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/547836/thumb.webp"
     },
     {
       "objectID": 313442,
@@ -1088,13 +1575,15 @@
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 1033,
+          "height": 1193,
           "sourceHeight": 1200,
           "sourceWidth": 1800,
-          "width": 906,
-          "x": 416,
-          "y": 100
-        }
+          "width": 1565,
+          "x": 226,
+          "y": 0
+        },
+        "manualEditedAt": "2026-06-16T19:54:24.203Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 3456,
@@ -1176,15 +1665,15 @@
         "internalBackdropPixelsRemoved": 0,
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T20:42:52.767Z",
+        "manualEditedAt": "2026-06-17T13:48:33.466Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
           "height": 407,
-          "sourceHeight": 522,
-          "sourceWidth": 599,
+          "sourceHeight": 1569,
+          "sourceWidth": 1800,
           "width": 374,
-          "x": 115,
-          "y": 65
+          "x": 346,
+          "y": 195
         }
       },
       "imageAnalysis": {
@@ -1334,7 +1823,7 @@
         "internalBackdropPixelsRemoved": 0,
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-16T00:38:09.578Z",
+        "manualEditedAt": "2026-06-16T19:57:53.913Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
           "height": 1274,
@@ -1682,6 +2171,104 @@
       "localThumbnail": "/objects/544709/thumb.webp"
     },
     {
+      "objectID": 44290,
+      "title": "Mask of a Demon Holding a Ring",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/44290",
+      "culture": "China",
+      "period": "Han dynasty (206 BCE–220 CE)",
+      "date": "",
+      "department": "Asian Art",
+      "image": "https://images.metmuseum.org/CRDImages/as/original/39091.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/39091.jpg",
+      "objectName": "Mask",
+      "accessionNumber": "18.56.3",
+      "classification": "Jade",
+      "medium": "Jade",
+      "dimensions": "H. 2 1/4 in. (5.7 cm); W. 1 5/8 in. (4.1 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Masks",
+        "Demons"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "manual replacement",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met API manual underrepresented mask replacements"
+      ],
+      "diversityGroup": "China",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/44290",
+      "lastFetchedAt": "2026-06-17T15:13:42.972Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:57.408Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-18T14:12:54.538Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1658,
+          "sourceHeight": 1800,
+          "sourceWidth": 1449,
+          "width": 1421,
+          "x": 28,
+          "y": 26
+        }
+      },
+      "localOriginal": "/objects/44290/original.jpg",
+      "localCutout": "/objects/44290/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 3221,
+        "originalHeight": 4000,
+        "originalMegapixels": 12.88,
+        "cutoutBox": {
+          "x": 9,
+          "y": 7,
+          "width": 411,
+          "height": 483
+        },
+        "cutoutAspectRatio": 1.175,
+        "cutoutFillRatio": 0.597,
+        "symmetryScore": 0.889,
+        "centerScore": 0.955,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.911,
+        "displayScore": 0.948,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/44290/thumb.webp"
+    },
+    {
       "objectID": 310072,
       "title": "Mask (Le Op)",
       "objectURL": "https://www.metmuseum.org/art/collection/search/310072",
@@ -1886,15 +2473,15 @@
         "internalBackdropPixelsRemoved": 0,
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T17:18:19.902Z",
+        "manualEditedAt": "2026-06-16T19:40:10.103Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
-          "height": 1400,
+          "height": 1262,
           "sourceHeight": 1800,
           "sourceWidth": 1440,
-          "width": 1059,
-          "x": 168,
-          "y": 203
+          "width": 921,
+          "x": 237,
+          "y": 272
         }
       },
       "imageAnalysis": {
@@ -2244,15 +2831,15 @@
         "localEdgeBackdropPixelsRemoved": 0,
         "localEdgeDetachedPixelsRemoved": 0,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T17:38:21.320Z",
+        "manualEditedAt": "2026-06-17T13:50:07.780Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
-          "height": 1534,
+          "height": 1443,
           "sourceHeight": 1800,
           "sourceWidth": 1455,
-          "width": 1120,
+          "width": 1046,
           "x": 119,
-          "y": 266
+          "y": 343
         }
       },
       "imageAnalysis": {
@@ -2277,6 +2864,93 @@
         "displayEligible": true
       },
       "localThumbnail": "/objects/717585/thumb.webp"
+    },
+    {
+      "objectID": 23087,
+      "title": "Armet with Mask Visor in the Form of a Rooster",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/23087",
+      "culture": "German, probably Augsburg",
+      "period": "",
+      "date": "ca. 1530",
+      "department": "Arms and Armor",
+      "image": "https://images.metmuseum.org/CRDImages/aa/original/DP-12880-028.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/aa/web-large/DP-12880-028.jpg",
+      "objectName": "Armet with mask visor in the form of a rooster",
+      "accessionNumber": "29.150.3a",
+      "classification": "Helmets",
+      "medium": "Steel",
+      "dimensions": "H. 10 3/16 in. (25.9 cm); W. 9 in. (22.9 cm); D. 14 3/8 in. (36.5 cm); Wt. 6 lb. 6 oz. (2892 g)",
+      "geography": {
+        "type": "Country of Origin",
+        "city": "probably Augsburg",
+        "state": "",
+        "county": "",
+        "country": "Germany",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Roosters"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "German, probably Augsburg",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/23087",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:52.560Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted"
+      },
+      "localOriginal": "/objects/23087/original.jpg",
+      "localCutout": "/objects/23087/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 3327,
+        "originalHeight": 4000,
+        "originalMegapixels": 13.31,
+        "cutoutBox": {
+          "x": 25,
+          "y": 25,
+          "width": 370,
+          "height": 462
+        },
+        "cutoutAspectRatio": 1.249,
+        "cutoutFillRatio": 0.7,
+        "symmetryScore": 0.799,
+        "centerScore": 0.996,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.892,
+        "displayScore": 0.937,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/23087/thumb.webp"
     },
     {
       "objectID": 311021,
@@ -2360,6 +3034,103 @@
         "displayEligible": true
       },
       "localThumbnail": "/objects/311021/thumb.webp"
+    },
+    {
+      "objectID": 241033,
+      "title": "Terracotta mask",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/241033",
+      "culture": "Cypriot",
+      "period": "Cypro-Archaic I",
+      "date": "end of the 7th century BCE",
+      "department": "Greek and Roman Art",
+      "image": "https://images.metmuseum.org/CRDImages/gr/original/DP369472.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP369472.jpg",
+      "objectName": "Mask of a bearded male head",
+      "accessionNumber": "74.51.1478",
+      "classification": "Terracottas",
+      "medium": "Terracotta",
+      "dimensions": "H. 5 1/2 in. (14 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Masks"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "Cypriot",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/241033",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:36.799Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-17T17:14:11.934Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1309,
+          "sourceHeight": 1800,
+          "sourceWidth": 1350,
+          "width": 844,
+          "x": 429,
+          "y": 276
+        }
+      },
+      "localOriginal": "/objects/241033/original.jpg",
+      "localCutout": "/objects/241033/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 2920,
+        "originalHeight": 3894,
+        "originalMegapixels": 11.37,
+        "cutoutBox": {
+          "x": 0,
+          "y": 26,
+          "width": 420,
+          "height": 474
+        },
+        "cutoutAspectRatio": 1.129,
+        "cutoutFillRatio": 0.36,
+        "symmetryScore": 0.961,
+        "centerScore": 0.978,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.885,
+        "displayScore": 0.933,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/241033/thumb.webp"
     },
     {
       "objectID": 252594,
@@ -2765,107 +3536,6 @@
       "localThumbnail": "/objects/22469/thumb.webp"
     },
     {
-      "objectID": 24155,
-      "title": "Half Mask (Menpō)",
-      "objectURL": "https://www.metmuseum.org/art/collection/search/24155",
-      "culture": "Japanese",
-      "period": "",
-      "date": "ca. 1615–1868",
-      "department": "Arms and Armor",
-      "image": "https://images.metmuseum.org/CRDImages/aa/original/LC-36_25_273a_b-001.jpg",
-      "imageSmall": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-36_25_273a_b-001.jpg",
-      "objectName": "Half mask (Menpō)",
-      "accessionNumber": "36.25.273a, b",
-      "classification": "Armor Parts-Masks",
-      "medium": "Iron, lacquer",
-      "dimensions": "H. 5 1/8 in. (13 cm); W. 6 3/4 in. (17.1 cm); D. 5 1/8 in. (13 cm); Wt. 7.6 oz. (215 g)",
-      "geography": {
-        "type": "Country of Origin",
-        "city": "",
-        "state": "",
-        "county": "",
-        "country": "Japan",
-        "region": "",
-        "subregion": "",
-        "locale": "",
-        "locus": "",
-        "excavation": ""
-      },
-      "tags": [],
-      "maskMatch": {
-        "strength": "direct",
-        "fields": [
-          "title",
-          "objectName",
-          "classification"
-        ]
-      },
-      "sourceQueries": [
-        "japanese mask",
-        "noh mask",
-        "nōh mask",
-        "yupik dance mask",
-        "helmet mask",
-        "ceremonial mask",
-        "dance mask"
-      ],
-      "isPublicDomain": true,
-      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/24155",
-      "lastFetchedAt": "2026-06-15T17:17:17.417Z",
-      "localOriginal": "/objects/24155/original.jpg",
-      "localCutout": "/objects/24155/cutout.png",
-      "localCutoutUsable": true,
-      "imageProcessing": {
-        "provider": "local",
-        "backgroundRemovedAt": "2026-06-15T17:18:51.475Z",
-        "status": "complete",
-        "internalBackdropComponentsRemoved": 0,
-        "internalBackdropPixelsRemoved": 0,
-        "internalBackdropRejected": false,
-        "localHoleComponentsRemoved": 0,
-        "localHolePixelsRemoved": 0,
-        "localShadowComponentsRemoved": 0,
-        "localShadowPixelsRemoved": 0,
-        "localShadowFinePixelsRemoved": 0,
-        "localEdgeBackdropPixelsRemoved": 0,
-        "localEdgeDetachedPixelsRemoved": 0,
-        "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T21:36:48.206Z",
-        "manualEditedWith": "detail-magic-wand",
-        "restoreFrame": {
-          "height": 1039,
-          "sourceHeight": 1440,
-          "sourceWidth": 1800,
-          "width": 1186,
-          "x": 245,
-          "y": 325
-        }
-      },
-      "imageAnalysis": {
-        "originalWidth": 4000,
-        "originalHeight": 3200,
-        "originalMegapixels": 12.8,
-        "cutoutBox": {
-          "x": 20,
-          "y": 20,
-          "width": 379,
-          "height": 333
-        },
-        "cutoutAspectRatio": 0.879,
-        "cutoutFillRatio": 0.53,
-        "symmetryScore": 0.921,
-        "centerScore": 0.992,
-        "imageQualityScore": 1,
-        "frontFacingScore": 0.859,
-        "displayScore": 0.918,
-        "hasVisibleCutout": true,
-        "lowerPriorityObject": false,
-        "displayEligible": true
-      },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z",
-      "localThumbnail": "/objects/24155/thumb.webp"
-    },
-    {
       "objectID": 309134,
       "title": "Mask",
       "objectURL": "https://www.metmuseum.org/art/collection/search/309134",
@@ -3233,7 +3903,7 @@
         "localEdgeBackdropPixelsRemoved": 0,
         "localEdgeDetachedPixelsRemoved": 0,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-16T16:55:06.982Z",
+        "manualEditedAt": "2026-06-16T19:52:15.505Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
           "height": 1457,
@@ -3673,15 +4343,15 @@
         "internalBackdropPixelsRemoved": 0,
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T23:48:06.390Z",
+        "manualEditedAt": "2026-06-18T15:48:25.647Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
-          "height": 310,
-          "sourceHeight": 400,
-          "sourceWidth": 600,
-          "width": 573,
-          "x": 27,
-          "y": 64
+          "height": 302,
+          "sourceHeight": 1200,
+          "sourceWidth": 1800,
+          "width": 546,
+          "x": 108,
+          "y": 192
         }
       },
       "imageAnalysis": {
@@ -4251,6 +4921,93 @@
       "localThumbnail": "/objects/32036/thumb.webp"
     },
     {
+      "objectID": 61084,
+      "title": "Mask of a Tiger",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/61084",
+      "culture": "China",
+      "period": "Han dynasty (206 BCE–220 CE) (?)",
+      "date": "",
+      "department": "Asian Art",
+      "image": "https://images.metmuseum.org/CRDImages/as/original/DP167638.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP167638.jpg",
+      "objectName": "Mask",
+      "accessionNumber": "18.43.1",
+      "classification": "Metalwork",
+      "medium": "Bronze",
+      "dimensions": "H. 1 3/4 in. (4.4 cm); W. 2 1/8 in. (5.4 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Masks"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "manual replacement",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met API manual underrepresented mask replacements"
+      ],
+      "diversityGroup": "China",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/61084",
+      "lastFetchedAt": "2026-06-17T15:13:43.030Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:58.942Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted"
+      },
+      "localOriginal": "/objects/61084/original.jpg",
+      "localCutout": "/objects/61084/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 4000,
+        "originalHeight": 3001,
+        "originalMegapixels": 12,
+        "cutoutBox": {
+          "x": 21,
+          "y": 21,
+          "width": 378,
+          "height": 310
+        },
+        "cutoutAspectRatio": 0.82,
+        "cutoutFillRatio": 0.753,
+        "symmetryScore": 0.848,
+        "centerScore": 0.996,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.83,
+        "displayScore": 0.901,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/61084/thumb.webp"
+    },
+    {
       "objectID": 78430,
       "title": "Mask of Bhairava",
       "objectURL": "https://www.metmuseum.org/art/collection/search/78430",
@@ -4533,6 +5290,93 @@
       "localThumbnail": "/objects/50421/thumb.webp"
     },
     {
+      "objectID": 547822,
+      "title": "Funerary Mask",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/547822",
+      "culture": "",
+      "period": "Roman Period",
+      "date": "A.D. 1st–4th century",
+      "department": "Egyptian Art",
+      "image": "https://images.metmuseum.org/CRDImages/eg/original/DP266856.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/eg/web-large/DP266856.jpg",
+      "objectName": "Mask",
+      "accessionNumber": "00.2.12",
+      "classification": "",
+      "medium": "Plaster, paint",
+      "dimensions": "h. 20.3 cm (8 in)",
+      "geography": {
+        "type": "From",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "Egypt",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Masks"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "manual replacement",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met API manual underrepresented mask replacements"
+      ],
+      "diversityGroup": "Egypt",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/547822",
+      "lastFetchedAt": "2026-06-17T15:13:43.280Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:17:01.586Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted"
+      },
+      "localOriginal": "/objects/547822/original.jpg",
+      "localCutout": "/objects/547822/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 3127,
+        "originalHeight": 3855,
+        "originalMegapixels": 12.05,
+        "cutoutBox": {
+          "x": 27,
+          "y": 28,
+          "width": 393,
+          "height": 507
+        },
+        "cutoutAspectRatio": 1.29,
+        "cutoutFillRatio": 0.465,
+        "symmetryScore": 0.751,
+        "centerScore": 0.894,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.823,
+        "displayScore": 0.897,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/547822/thumb.webp"
+    },
+    {
       "objectID": 32040,
       "title": "Half Mask (Menpō)",
       "objectURL": "https://www.metmuseum.org/art/collection/search/32040",
@@ -4721,6 +5565,93 @@
       "localThumbnail": "/objects/61260/thumb.webp"
     },
     {
+      "objectID": 310265,
+      "title": "Ornamental Mask",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/310265",
+      "culture": "Ecuador (?)",
+      "period": "",
+      "date": "before 16th century",
+      "department": "The Michael C. Rockefeller Wing",
+      "image": "https://images.metmuseum.org/CRDImages/ao/original/1977.187.19.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/1977.187.19.jpg",
+      "objectName": "Mask",
+      "accessionNumber": "1977.187.19",
+      "classification": "Metal-Ornaments",
+      "medium": "Gold",
+      "dimensions": "Height 3-1/2 in. (8.9 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "Ecuador (?)",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Faces"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "Ecuador (?)",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/310265",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:39.628Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted"
+      },
+      "localOriginal": "/objects/310265/original.jpg",
+      "localCutout": "/objects/310265/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 2412,
+        "originalHeight": 2180,
+        "originalMegapixels": 5.26,
+        "cutoutBox": {
+          "x": 36,
+          "y": 9,
+          "width": 363,
+          "height": 378
+        },
+        "cutoutAspectRatio": 1.041,
+        "cutoutFillRatio": 0.72,
+        "symmetryScore": 0.938,
+        "centerScore": 0.951,
+        "imageQualityScore": 0.874,
+        "frontFacingScore": 0.908,
+        "displayScore": 0.894,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/310265/thumb.webp"
+    },
+    {
       "objectID": 22071,
       "title": "Mask (Sōmen)",
       "objectURL": "https://www.metmuseum.org/art/collection/search/22071",
@@ -4789,13 +5720,15 @@
         "localEdgeDetachedPixelsRemoved": 0,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 1440,
+          "height": 1417,
           "sourceHeight": 1440,
           "sourceWidth": 1800,
-          "width": 1800,
+          "width": 1797,
           "x": 0,
-          "y": 0
-        }
+          "y": 17
+        },
+        "manualEditedAt": "2026-06-18T15:44:42.230Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 4000,
@@ -5084,6 +6017,94 @@
       "localThumbnail": "/objects/24142/thumb.webp"
     },
     {
+      "objectID": 40035,
+      "title": "Lion Mask",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/40035",
+      "culture": "Central Asia",
+      "period": "",
+      "date": "early 12th century",
+      "department": "Asian Art",
+      "image": "https://images.metmuseum.org/CRDImages/as/original/DP131505.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP131505.jpg",
+      "objectName": "Mask",
+      "accessionNumber": "30.32.65",
+      "classification": "Sculpture",
+      "medium": "Terracotta",
+      "dimensions": "2 x 2 in. (5.1 x 5.1 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Masks",
+        "Lions"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "Central Asia",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/40035",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:21.518Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted"
+      },
+      "localOriginal": "/objects/40035/original.jpg",
+      "localCutout": "/objects/40035/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 3000,
+        "originalHeight": 4000,
+        "originalMegapixels": 12,
+        "cutoutBox": {
+          "x": 26,
+          "y": 26,
+          "width": 394,
+          "height": 481
+        },
+        "cutoutAspectRatio": 1.221,
+        "cutoutFillRatio": 0.379,
+        "symmetryScore": 0.782,
+        "centerScore": 0.911,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.807,
+        "displayScore": 0.888,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/40035/thumb.webp"
+    },
+    {
       "objectID": 31979,
       "title": "Half Mask (Menpō)",
       "objectURL": "https://www.metmuseum.org/art/collection/search/31979",
@@ -5282,6 +6303,202 @@
       "localThumbnail": "/objects/254988/thumb.webp"
     },
     {
+      "objectID": 665501,
+      "title": "Narasimha, Vishnu’s Man-Lion Avatar",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/665501",
+      "culture": "Southern India, Tamil Nadu, probably Thanjavur district",
+      "period": "",
+      "date": "ca. 1700–1750",
+      "department": "Asian Art",
+      "image": "https://images.metmuseum.org/CRDImages/as/original/DP363605.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP363605.jpg",
+      "objectName": "Mask",
+      "accessionNumber": "2015.255.1a–f",
+      "classification": "Sculpture",
+      "medium": "Wood with cloth and polychrome",
+      "dimensions": "H. (with stand) 47 1/2 in. (120.7 cm); W. 40 in. (101.6 cm ); D. 20 in. (50.8 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Masks",
+        "Vishnu"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "Southern India, Tamil Nadu, probably Thanjavur district",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/665501",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:24.253Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-18T14:39:20.063Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1477,
+          "sourceHeight": 1800,
+          "sourceWidth": 1350,
+          "width": 701,
+          "x": 380,
+          "y": 323
+        }
+      },
+      "localOriginal": "/objects/665501/original.jpg",
+      "localCutout": "/objects/665501/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 2910,
+        "originalHeight": 3880,
+        "originalMegapixels": 11.29,
+        "cutoutBox": {
+          "x": 20,
+          "y": 25,
+          "width": 400,
+          "height": 459
+        },
+        "cutoutAspectRatio": 1.147,
+        "cutoutFillRatio": 0.272,
+        "symmetryScore": 0.855,
+        "centerScore": 0.918,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.804,
+        "displayScore": 0.886,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/665501/thumb.webp"
+    },
+    {
+      "objectID": 665502,
+      "title": "Hiranyakashipu, The Demon-King",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/665502",
+      "culture": "Southern India, Tamil Nadu, probably Thanjavur district",
+      "period": "",
+      "date": "ca. 1700–1750",
+      "department": "Asian Art",
+      "image": "https://images.metmuseum.org/CRDImages/as/original/DP367896.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP367896.jpg",
+      "objectName": "Mask",
+      "accessionNumber": "2015.255.2a–d",
+      "classification": "Sculpture",
+      "medium": "Wood with cloth and polychrome",
+      "dimensions": "H. 27 in. (68.6 cm); W. 22 in. (55.9 cm); D. 6 3/4 in. (17.1 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Parrots",
+        "Demons"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "Southern India, Tamil Nadu, probably Thanjavur district",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/665502",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:25.939Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-18T14:37:32.476Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1668,
+          "sourceHeight": 1775,
+          "sourceWidth": 1800,
+          "width": 1461,
+          "x": 233,
+          "y": 105
+        }
+      },
+      "localOriginal": "/objects/665502/original.jpg",
+      "localCutout": "/objects/665502/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 3905,
+        "originalHeight": 3850,
+        "originalMegapixels": 15.03,
+        "cutoutBox": {
+          "x": 22,
+          "y": 22,
+          "width": 376,
+          "height": 406
+        },
+        "cutoutAspectRatio": 1.08,
+        "cutoutFillRatio": 0.434,
+        "symmetryScore": 0.762,
+        "centerScore": 0.996,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.802,
+        "displayScore": 0.885,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/665502/thumb.webp"
+    },
+    {
       "objectID": 717574,
       "title": "Mask",
       "objectURL": "https://www.metmuseum.org/art/collection/search/717574",
@@ -5407,7 +6624,7 @@
         "localEdgeBackdropPixelsRemoved": 0,
         "localEdgeDetachedPixelsRemoved": 0,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T21:53:15.198Z",
+        "manualEditedAt": "2026-06-18T14:39:06.828Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
           "height": 1391,
@@ -5441,105 +6658,6 @@
       },
       "lastSeenAt": "2026-06-15T22:06:39.987Z",
       "localThumbnail": "/objects/24153/thumb.webp"
-    },
-    {
-      "objectID": 24167,
-      "title": "Half Mask (Menpō)",
-      "objectURL": "https://www.metmuseum.org/art/collection/search/24167",
-      "culture": "Japanese",
-      "period": "",
-      "date": "ca. 1615–1868",
-      "department": "Arms and Armor",
-      "image": "https://images.metmuseum.org/CRDImages/aa/original/LC-36_25_320a_b-001.jpg",
-      "imageSmall": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-36_25_320a_b-001.jpg",
-      "objectName": "Half mask (Menpō)",
-      "accessionNumber": "36.25.320a, b",
-      "classification": "Armor Parts-Masks",
-      "medium": "Iron, lacquer",
-      "dimensions": "H. 5 5/8 in. (14.3 cm); W. 6 11/16 in. (17 cm); D. 4 3/4 in. (12.1 cm); Wt. 10.3 oz. (292 g)",
-      "geography": {
-        "type": "Country of Origin",
-        "city": "",
-        "state": "",
-        "county": "",
-        "country": "Japan",
-        "region": "",
-        "subregion": "",
-        "locale": "",
-        "locus": "",
-        "excavation": ""
-      },
-      "tags": [],
-      "maskMatch": {
-        "strength": "direct",
-        "fields": [
-          "title",
-          "objectName",
-          "classification"
-        ]
-      },
-      "sourceQueries": [
-        "japanese mask",
-        "noh mask",
-        "nōh mask",
-        "yupik dance mask",
-        "helmet mask",
-        "ceremonial mask",
-        "dance mask"
-      ],
-      "isPublicDomain": true,
-      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/24167",
-      "lastFetchedAt": "2026-06-15T17:17:17.417Z",
-      "localOriginal": "/objects/24167/original.jpg",
-      "localCutout": "/objects/24167/cutout.png",
-      "localCutoutUsable": true,
-      "imageProcessing": {
-        "provider": "local",
-        "backgroundRemovedAt": "2026-06-15T17:18:42.231Z",
-        "status": "complete",
-        "internalBackdropComponentsRemoved": 0,
-        "internalBackdropPixelsRemoved": 0,
-        "internalBackdropRejected": false,
-        "localHoleComponentsRemoved": 0,
-        "localHolePixelsRemoved": 0,
-        "localShadowComponentsRemoved": 0,
-        "localShadowPixelsRemoved": 0,
-        "localShadowFinePixelsRemoved": 0,
-        "localEdgeBackdropPixelsRemoved": 0,
-        "localEdgeDetachedPixelsRemoved": 0,
-        "qualityStatus": "accepted",
-        "restoreFrame": {
-          "height": 1282,
-          "sourceHeight": 1440,
-          "sourceWidth": 1800,
-          "width": 1642,
-          "x": 141,
-          "y": 98
-        }
-      },
-      "imageAnalysis": {
-        "originalWidth": 4000,
-        "originalHeight": 3200,
-        "originalMegapixels": 12.8,
-        "cutoutBox": {
-          "x": 26,
-          "y": 24,
-          "width": 374,
-          "height": 284
-        },
-        "cutoutAspectRatio": 0.759,
-        "cutoutFillRatio": 0.548,
-        "symmetryScore": 0.829,
-        "centerScore": 0.98,
-        "imageQualityScore": 1,
-        "frontFacingScore": 0.793,
-        "displayScore": 0.88,
-        "hasVisibleCutout": true,
-        "lowerPriorityObject": false,
-        "displayEligible": true
-      },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z",
-      "localThumbnail": "/objects/24167/thumb.webp"
     },
     {
       "objectID": 22512,
@@ -5709,13 +6827,15 @@
         "localEdgeDetachedPixelsRemoved": 0,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 1148,
+          "height": 1010,
           "sourceHeight": 1440,
           "sourceWidth": 1800,
-          "width": 1387,
-          "x": 117,
-          "y": 133
-        }
+          "width": 1249,
+          "x": 186,
+          "y": 202
+        },
+        "manualEditedAt": "2026-06-18T15:47:23.701Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 4000,
@@ -6106,7 +7226,17 @@
         "localShadowFinePixelsRemoved": 0,
         "localEdgeBackdropPixelsRemoved": 0,
         "localEdgeDetachedPixelsRemoved": 0,
-        "qualityStatus": "accepted"
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-18T14:20:44.117Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1312,
+          "sourceHeight": 1800,
+          "sourceWidth": 1200,
+          "width": 679,
+          "x": 323,
+          "y": 294
+        }
       },
       "imageAnalysis": {
         "originalWidth": 2304,
@@ -6621,13 +7751,15 @@
         "localEdgeDetachedPixelsRemoved": 0,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 1440,
+          "height": 1439,
           "sourceHeight": 1440,
           "sourceWidth": 1800,
-          "width": 1800,
+          "width": 1786,
           "x": 0,
-          "y": 0
-        }
+          "y": 1
+        },
+        "manualEditedAt": "2026-06-17T14:00:25.594Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 4000,
@@ -6720,13 +7852,15 @@
         "localEdgeDetachedPixelsRemoved": 0,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 1347,
+          "height": 1177,
           "sourceHeight": 1440,
           "sourceWidth": 1800,
-          "width": 1797,
-          "x": 3,
-          "y": 0
-        }
+          "width": 1676,
+          "x": 95,
+          "y": 78
+        },
+        "manualEditedAt": "2026-06-16T19:55:37.367Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 4000,
@@ -6934,6 +8068,198 @@
       },
       "lastSeenAt": "2026-06-15T22:06:39.987Z",
       "localThumbnail": "/objects/311167/thumb.webp"
+    },
+    {
+      "objectID": 665503,
+      "title": "Hiranyakashipu, The Demon-King",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/665503",
+      "culture": "Southern India, Tamil Nadu, probably Thanjavur district",
+      "period": "",
+      "date": "ca. 1700–1750",
+      "department": "Asian Art",
+      "image": "https://images.metmuseum.org/CRDImages/as/original/DP367897.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP367897.jpg",
+      "objectName": "Mask",
+      "accessionNumber": "2015.255.3",
+      "classification": "Sculpture",
+      "medium": "Wood with cloth and polychrome",
+      "dimensions": "H. 20 in. (50.8 cm); W. 8 1/2 in. (21.6 cm); D. 6 1/4 in. (15.9 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Kings"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "Southern India, Tamil Nadu, probably Thanjavur district",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/665503",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:27.349Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-17T16:42:10.224Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1499,
+          "sourceHeight": 1800,
+          "sourceWidth": 1168,
+          "width": 941,
+          "x": 0,
+          "y": 127
+        }
+      },
+      "localOriginal": "/objects/665503/original.jpg",
+      "localCutout": "/objects/665503/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 2523,
+        "originalHeight": 3887,
+        "originalMegapixels": 9.81,
+        "cutoutBox": {
+          "x": 39,
+          "y": 39,
+          "width": 342,
+          "height": 723
+        },
+        "cutoutAspectRatio": 2.114,
+        "cutoutFillRatio": 0.478,
+        "symmetryScore": 0.816,
+        "centerScore": 0.996,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.719,
+        "displayScore": 0.837,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/665503/thumb.webp"
+    },
+    {
+      "objectID": 35825,
+      "title": "Mask Visor in Form of a Human Face",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/35825",
+      "culture": "German, Augsburg",
+      "period": "",
+      "date": "ca. 1515",
+      "department": "Arms and Armor",
+      "image": "https://images.metmuseum.org/CRDImages/aa/original/LC-04.3.286a-003.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-04.3.286a-003.jpg",
+      "objectName": "Mask visor",
+      "accessionNumber": "04.3.286a",
+      "classification": "Helmets",
+      "medium": "Steel, gold",
+      "dimensions": "H. 12 in. (30.5 cm); W. 9 3/4 in. (24.8 cm); D. 13 in. (33 cm); Wt. 4 lb. 12 oz. (2146 g)",
+      "geography": {
+        "type": "Country of Origin",
+        "city": "Augsburg",
+        "state": "",
+        "county": "",
+        "country": "Germany",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "German, Augsburg",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/35825",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:54.260Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-18T14:35:09.443Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1286,
+          "sourceHeight": 1286,
+          "sourceWidth": 1800,
+          "width": 1796,
+          "x": 0,
+          "y": 0
+        }
+      },
+      "localOriginal": "/objects/35825/original.jpg",
+      "localCutout": "/objects/35825/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 4000,
+        "originalHeight": 2857,
+        "originalMegapixels": 11.43,
+        "cutoutBox": {
+          "x": 20,
+          "y": 20,
+          "width": 380,
+          "height": 251
+        },
+        "cutoutAspectRatio": 0.661,
+        "cutoutFillRatio": 0.649,
+        "symmetryScore": 0.673,
+        "centerScore": 0.995,
+        "imageQualityScore": 1,
+        "frontFacingScore": 0.714,
+        "displayScore": 0.834,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/35825/thumb.webp"
     },
     {
       "objectID": 310647,
@@ -7249,13 +8575,15 @@
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 1309,
+          "height": 1234,
           "sourceHeight": 1343,
           "sourceWidth": 1800,
-          "width": 1421,
-          "x": 379,
+          "width": 1347,
+          "x": 453,
           "y": 0
-        }
+        },
+        "manualEditedAt": "2026-06-18T15:46:02.667Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 3087,
@@ -7368,6 +8696,202 @@
       },
       "lastSeenAt": "2026-06-15T22:06:39.987Z",
       "localThumbnail": "/objects/552325/thumb.webp"
+    },
+    {
+      "objectID": 241059,
+      "title": "Head of Silenos",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/241059",
+      "culture": "Cypriot",
+      "period": "Late Hellenistic",
+      "date": "2nd century BCE",
+      "department": "Greek and Roman Art",
+      "image": "https://images.metmuseum.org/CRDImages/gr/original/DP100607.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP100607.jpg",
+      "objectName": "Head of silenos or mask",
+      "accessionNumber": "74.51.1503",
+      "classification": "Terracottas",
+      "medium": "Terracotta",
+      "dimensions": "H. 1 11/16 in. (4.3 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Heads",
+        "Silenus"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "Cypriot",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/241059",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:38.000Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-18T14:38:57.744Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 837,
+          "sourceHeight": 1800,
+          "sourceWidth": 1800,
+          "width": 994,
+          "x": 134,
+          "y": 529
+        }
+      },
+      "localOriginal": "/objects/241059/original.jpg",
+      "localCutout": "/objects/241059/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 2048,
+        "originalHeight": 2048,
+        "originalMegapixels": 4.19,
+        "cutoutBox": {
+          "x": 4,
+          "y": 4,
+          "width": 412,
+          "height": 412
+        },
+        "cutoutAspectRatio": 1,
+        "cutoutFillRatio": 1,
+        "symmetryScore": 0.981,
+        "centerScore": 0.996,
+        "imageQualityScore": 0.681,
+        "frontFacingScore": 0.93,
+        "displayScore": 0.825,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/241059/thumb.webp"
+    },
+    {
+      "objectID": 241313,
+      "title": "Dionysos mask",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/241313",
+      "culture": "Cypriot",
+      "period": "Late Hellenistic",
+      "date": "2nd century BCE(?)",
+      "department": "Greek and Roman Art",
+      "image": "https://images.metmuseum.org/CRDImages/gr/original/DP101800.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP101800.jpg",
+      "objectName": "Mask of Dionysos",
+      "accessionNumber": "74.51.1758",
+      "classification": "Terracottas",
+      "medium": "Terracotta",
+      "dimensions": "H. 5 in. (12.7 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Masks",
+        "Dionysus"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "Cypriot",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/241313",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:32.675Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-18T14:05:25.422Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1758,
+          "sourceHeight": 1800,
+          "sourceWidth": 1800,
+          "width": 1758,
+          "x": 21,
+          "y": 21
+        }
+      },
+      "localOriginal": "/objects/241313/original.jpg",
+      "localCutout": "/objects/241313/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 2048,
+        "originalHeight": 2048,
+        "originalMegapixels": 4.19,
+        "cutoutBox": {
+          "x": 4,
+          "y": 4,
+          "width": 412,
+          "height": 412
+        },
+        "cutoutAspectRatio": 1,
+        "cutoutFillRatio": 0.999,
+        "symmetryScore": 0.972,
+        "centerScore": 0.996,
+        "imageQualityScore": 0.681,
+        "frontFacingScore": 0.925,
+        "displayScore": 0.823,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/241313/thumb.webp"
     },
     {
       "objectID": 255198,
@@ -7531,13 +9055,15 @@
         "localEdgeDetachedPixelsRemoved": 0,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 1440,
+          "height": 1366,
           "sourceHeight": 1440,
           "sourceWidth": 1800,
-          "width": 1800,
-          "x": 0,
-          "y": 0
-        }
+          "width": 1773,
+          "x": 18,
+          "y": 74
+        },
+        "manualEditedAt": "2026-06-17T13:58:36.377Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 4000,
@@ -7826,6 +9352,103 @@
         "displayEligible": true
       },
       "localThumbnail": "/objects/254758/thumb.webp"
+    },
+    {
+      "objectID": 320693,
+      "title": "Funerary Mask Turban",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/320693",
+      "culture": "Ica",
+      "period": "",
+      "date": "13th–15th century",
+      "department": "The Michael C. Rockefeller Wing",
+      "image": "https://images.metmuseum.org/CRDImages/ao/original/1979.206.605_front.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.605_front.jpg",
+      "objectName": "Mask component",
+      "accessionNumber": "1979.206.605c",
+      "classification": "Wood-Ornaments",
+      "medium": "Wood, paint, gold, cloth, shell",
+      "dimensions": "H. 18 3/4 x W. 3 3/4 in. (47.7 x 9.5 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "Peru",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Faces"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "Ica",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/320693",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:43.794Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-17T16:39:02.339Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1706,
+          "sourceHeight": 1800,
+          "sourceWidth": 1278,
+          "width": 1257,
+          "x": 21,
+          "y": 31
+        }
+      },
+      "localOriginal": "/objects/320693/original.jpg",
+      "localCutout": "/objects/320693/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 1578,
+        "originalHeight": 2223,
+        "originalMegapixels": 3.51,
+        "cutoutBox": {
+          "x": 30,
+          "y": 9,
+          "width": 363,
+          "height": 547
+        },
+        "cutoutAspectRatio": 1.507,
+        "cutoutFillRatio": 0.784,
+        "symmetryScore": 0.907,
+        "centerScore": 0.98,
+        "imageQualityScore": 0.556,
+        "frontFacingScore": 0.91,
+        "displayScore": 0.761,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/320693/thumb.webp"
     },
     {
       "objectID": 545147,
@@ -8298,13 +9921,15 @@
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 1800,
+          "height": 1718,
           "sourceHeight": 1800,
           "sourceWidth": 1555,
-          "width": 1552,
-          "x": 0,
-          "y": 0
-        }
+          "width": 1447,
+          "x": 11,
+          "y": 79
+        },
+        "manualEditedAt": "2026-06-16T19:43:15.125Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 1728,
@@ -8329,6 +9954,293 @@
       },
       "lastSeenAt": "2026-06-15T22:06:39.987Z",
       "localThumbnail": "/objects/190449/thumb.webp"
+    },
+    {
+      "objectID": 547829,
+      "title": "Funerary Mask",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/547829",
+      "culture": "",
+      "period": "Ptolemaic or Roman Period",
+      "date": "ca. 50 B.C.–50 A.D.",
+      "department": "Egyptian Art",
+      "image": "https://images.metmuseum.org/CRDImages/eg/original/vs00.2.19.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/eg/web-large/vs00.2.19.jpg",
+      "objectName": "Mask, Woman",
+      "accessionNumber": "00.2.19",
+      "classification": "",
+      "medium": "gesso or mud?, paint",
+      "dimensions": "H. 38.5 cm (15 3/16 in.)",
+      "geography": {
+        "type": "From",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "Egypt",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "manual replacement",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met API manual underrepresented mask replacements"
+      ],
+      "diversityGroup": "Egypt",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/547829",
+      "lastFetchedAt": "2026-06-17T15:14:17.084Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:17:02.747Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-18T14:32:23.418Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1659,
+          "sourceHeight": 1800,
+          "sourceWidth": 1416,
+          "width": 1345,
+          "x": 0,
+          "y": 67
+        }
+      },
+      "localOriginal": "/objects/547829/original.jpg",
+      "localCutout": "/objects/547829/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 1520,
+        "originalHeight": 1932,
+        "originalMegapixels": 2.94,
+        "cutoutBox": {
+          "x": 25,
+          "y": 20,
+          "width": 374,
+          "height": 497
+        },
+        "cutoutAspectRatio": 1.329,
+        "cutoutFillRatio": 0.767,
+        "symmetryScore": 0.8,
+        "centerScore": 0.989,
+        "imageQualityScore": 0.452,
+        "frontFacingScore": 0.896,
+        "displayScore": 0.709,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/547829/thumb.webp"
+    },
+    {
+      "objectID": 241075,
+      "title": "Comic mask",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/241075",
+      "culture": "Greek, possibly Attic",
+      "period": "Early Hellenistic",
+      "date": "late 4th–3rd century BCE",
+      "department": "Greek and Roman Art",
+      "image": "https://images.metmuseum.org/CRDImages/gr/original/DP101607.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP101607.jpg",
+      "objectName": "Mask, comic",
+      "accessionNumber": "74.51.1519",
+      "classification": "Terracottas",
+      "medium": "Terracotta",
+      "dimensions": "H. 2 1/2 in. (6.4 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Masks"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "Greek, possibly Attic",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/241075",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:28.749Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-18T14:20:05.949Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1550,
+          "sourceHeight": 1800,
+          "sourceWidth": 1750,
+          "width": 1634,
+          "x": 0,
+          "y": 0
+        }
+      },
+      "localOriginal": "/objects/241075/original.jpg",
+      "localCutout": "/objects/241075/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 1945,
+        "originalHeight": 2001,
+        "originalMegapixels": 3.89,
+        "cutoutBox": {
+          "x": 24,
+          "y": 21,
+          "width": 396,
+          "height": 365
+        },
+        "cutoutAspectRatio": 0.922,
+        "cutoutFillRatio": 0.644,
+        "symmetryScore": 0.693,
+        "centerScore": 0.923,
+        "imageQualityScore": 0.626,
+        "frontFacingScore": 0.76,
+        "displayScore": 0.704,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/241075/thumb.webp"
+    },
+    {
+      "objectID": 26504,
+      "title": "Armet with Mask Visor",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/26504",
+      "culture": "German, Nuremberg or Austrian, Innsbruck",
+      "period": "",
+      "date": "ca. 1520–25",
+      "department": "Arms and Armor",
+      "image": "https://images.metmuseum.org/CRDImages/aa/original/DP22317.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/aa/web-large/DP22317.jpg",
+      "objectName": "Armet with mask visor",
+      "accessionNumber": "14.25.562",
+      "classification": "Helmets",
+      "medium": "Steel",
+      "dimensions": "H. 10 in. (25.4 cm); W. 9 7/8 n. (25.1 cm); D. 13 7/8 in. (35.2 cm); Wt. 7 lb. 2 oz. (3234 g)",
+      "geography": {
+        "type": "Country of Origin",
+        "city": "Innsbruck",
+        "state": "",
+        "county": "",
+        "country": "Austria",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "German, Nuremberg or Austrian, Innsbruck",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/26504",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:45.067Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-17T16:22:04.282Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1337,
+          "sourceHeight": 1665,
+          "sourceWidth": 1800,
+          "width": 1269,
+          "x": 231,
+          "y": 190
+        }
+      },
+      "localOriginal": "/objects/26504/original.jpg",
+      "localCutout": "/objects/26504/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 1843,
+        "originalHeight": 1705,
+        "originalMegapixels": 3.14,
+        "cutoutBox": {
+          "x": 22,
+          "y": 21,
+          "width": 377,
+          "height": 398
+        },
+        "cutoutAspectRatio": 1.056,
+        "cutoutFillRatio": 0.677,
+        "symmetryScore": 0.81,
+        "centerScore": 0.999,
+        "imageQualityScore": 0.49,
+        "frontFacingScore": 0.86,
+        "displayScore": 0.704,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/26504/thumb.webp"
     },
     {
       "objectID": 310596,
@@ -8445,15 +10357,15 @@
         "internalBackdropPixelsRemoved": 0,
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T17:20:34.927Z",
+        "manualEditedAt": "2026-06-16T19:45:03.426Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
-          "height": 1441,
+          "height": 1270,
           "sourceHeight": 1441,
           "sourceWidth": 1800,
-          "width": 1694,
-          "x": 106,
-          "y": 0
+          "width": 1606,
+          "x": 194,
+          "y": 47
         }
       },
       "imageAnalysis": {
@@ -8620,7 +10532,7 @@
         "internalBackdropPixelsRemoved": 0,
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T13:36:18.932Z",
+        "manualEditedAt": "2026-06-17T13:52:57.598Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
           "height": 1231,
@@ -8834,6 +10746,103 @@
       "localThumbnail": "/objects/317889/thumb.webp"
     },
     {
+      "objectID": 319095,
+      "title": "Komokwa Mask",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/319095",
+      "culture": "Kwakwaka’wakw (Kwakiutl)",
+      "period": "",
+      "date": "1880–90",
+      "department": "The American Wing",
+      "image": "https://images.metmuseum.org/CRDImages/ad/original/DT261796.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT261796.jpg",
+      "objectName": "Mask",
+      "accessionNumber": "2011.154.55",
+      "classification": "Wood-Sculpture",
+      "medium": "Wood, pigment",
+      "dimensions": "H. 15 x W. 12 in. (38.1 x 30.5 cm)",
+      "geography": {
+        "type": "Object place",
+        "city": "",
+        "state": "British Columbia",
+        "county": "",
+        "country": "Canada",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Faces"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "openAccessCsv",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met Open Access CSV targeted mask candidates"
+      ],
+      "diversityGroup": "Kwakwaka’wakw (Kwakiutl)",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/319095",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:16:31.468Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-18T14:17:20.861Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1566,
+          "sourceHeight": 1800,
+          "sourceWidth": 1439,
+          "width": 1439,
+          "x": 0,
+          "y": 233
+        }
+      },
+      "localOriginal": "/objects/319095/original.jpg",
+      "localCutout": "/objects/319095/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 1488,
+        "originalHeight": 1861,
+        "originalMegapixels": 2.77,
+        "cutoutBox": {
+          "x": 0,
+          "y": 25,
+          "width": 349,
+          "height": 457
+        },
+        "cutoutAspectRatio": 1.309,
+        "cutoutFillRatio": 0.59,
+        "symmetryScore": 0.72,
+        "centerScore": 0.741,
+        "imageQualityScore": 0.422,
+        "frontFacingScore": 0.804,
+        "displayScore": 0.644,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/319095/thumb.webp"
+    },
+    {
       "objectID": 257613,
       "title": "Marble mask of Pan",
       "objectURL": "https://www.metmuseum.org/art/collection/search/257613",
@@ -8888,13 +10897,13 @@
         "internalBackdropPixelsRemoved": 0,
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
-        "manualEditedAt": "2026-06-15T23:49:25.243Z",
+        "manualEditedAt": "2026-06-17T13:52:00.617Z",
         "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
           "height": 1774,
           "sourceHeight": 1800,
           "sourceWidth": 1493,
-          "width": 1493,
+          "width": 1285,
           "x": 0,
           "y": 26
         }
@@ -9015,26 +11024,26 @@
       "localThumbnail": "/objects/313266/thumb.webp"
     },
     {
-      "objectID": 315308,
-      "title": "Mask",
-      "objectURL": "https://www.metmuseum.org/art/collection/search/315308",
-      "culture": "Moche",
-      "period": "",
-      "date": "2nd–7th century",
-      "department": "The Michael C. Rockefeller Wing",
-      "image": "https://images.metmuseum.org/CRDImages/ao/original/vs1987_394_248.jpg",
-      "imageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1987_394_248.jpg",
-      "objectName": "Mask",
-      "accessionNumber": "1987.394.248",
-      "classification": "Metal-Ornaments",
-      "medium": "Copper (hammered)",
-      "dimensions": "H x W: 6 11/16 x 9 1/16in. (17 x 23cm)",
+      "objectID": 241346,
+      "title": "Bull's head mask",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/241346",
+      "culture": "Cypriot",
+      "period": "Cypro-Archaic II",
+      "date": "ca. 600–480 BCE",
+      "department": "Greek and Roman Art",
+      "image": "https://images.metmuseum.org/CRDImages/gr/original/DP104672.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP104672.jpg",
+      "objectName": "Mask of a bull",
+      "accessionNumber": "74.51.1791",
+      "classification": "Terracottas",
+      "medium": "Terracotta",
+      "dimensions": "H. 1 3/4 in. (4.5 cm)",
       "geography": {
         "type": "",
         "city": "",
         "state": "",
         "county": "",
-        "country": "Peru",
+        "country": "",
         "region": "",
         "subregion": "",
         "locale": "",
@@ -9042,68 +11051,75 @@
         "excavation": ""
       },
       "tags": [
-        "Faces"
+        "Masks",
+        "Bulls"
       ],
       "maskMatch": {
-        "strength": "direct",
+        "strength": "targeted",
         "fields": [
+          "openAccessCsv",
           "title",
           "objectName"
         ]
       },
       "sourceQueries": [
-        "mask",
-        "face mask",
-        "ceremonial mask"
+        "Met Open Access CSV targeted mask candidates"
       ],
+      "diversityGroup": "Cypriot",
       "isPublicDomain": true,
-      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/315308",
-      "lastFetchedAt": "2026-06-12T20:28:28.102Z",
-      "localOriginal": "/objects/315308/original.jpg",
-      "localCutout": "/objects/315308/cutout.png",
-      "localCutoutUsable": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/241346",
+      "lastFetchedAt": "2026-06-17T15:07:11.275Z",
       "imageProcessing": {
         "provider": "local",
-        "backgroundRemovedAt": "2026-06-12T20:58:04.322Z",
+        "backgroundRemovedAt": "2026-06-17T15:16:40.961Z",
         "status": "complete",
         "internalBackdropComponentsRemoved": 0,
         "internalBackdropPixelsRemoved": 0,
         "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
         "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-18T15:05:22.497Z",
+        "manualEditedWith": "detail-magic-wand",
         "restoreFrame": {
-          "height": 1174,
-          "sourceHeight": 1239,
-          "sourceWidth": 1678,
-          "width": 1678,
-          "x": 0,
-          "y": 65
-        },
-        "manualEditedAt": "2026-06-16T16:52:56.676Z",
-        "manualEditedWith": "detail-magic-wand"
+          "height": 1071,
+          "sourceHeight": 1528,
+          "sourceWidth": 1700,
+          "width": 1506,
+          "x": 194,
+          "y": 267
+        }
       },
+      "localOriginal": "/objects/241346/original.jpg",
+      "localCutout": "/objects/241346/cutout.png",
+      "localCutoutUsable": true,
       "imageAnalysis": {
-        "originalWidth": 1678,
-        "originalHeight": 1239,
-        "originalMegapixels": 2.08,
+        "originalWidth": 1700,
+        "originalHeight": 1528,
+        "originalMegapixels": 2.6,
         "cutoutBox": {
           "x": 20,
-          "y": 16,
+          "y": 20,
           "width": 380,
-          "height": 304
+          "height": 361
         },
-        "cutoutAspectRatio": 0.8,
-        "cutoutFillRatio": 0.691,
-        "symmetryScore": 0.863,
-        "centerScore": 0.98,
-        "imageQualityScore": 0.296,
-        "frontFacingScore": 0.83,
-        "displayScore": 0.606,
+        "cutoutAspectRatio": 0.95,
+        "cutoutFillRatio": 0.514,
+        "symmetryScore": 0.729,
+        "centerScore": 0.996,
+        "imageQualityScore": 0.39,
+        "frontFacingScore": 0.778,
+        "displayScore": 0.616,
         "hasVisibleCutout": true,
         "lowerPriorityObject": false,
         "displayEligible": true
       },
-      "lastSeenAt": "2026-06-15T22:06:39.987Z",
-      "localThumbnail": "/objects/315308/thumb.webp"
+      "localThumbnail": "/objects/241346/thumb.webp"
     },
     {
       "objectID": 312759,
@@ -9413,6 +11429,103 @@
         "displayEligible": true
       },
       "localThumbnail": "/objects/318766/thumb.webp"
+    },
+    {
+      "objectID": 312746,
+      "title": "Face Mask",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/312746",
+      "culture": "Mezcala",
+      "period": "",
+      "date": "1st–8th century",
+      "department": "The Michael C. Rockefeller Wing",
+      "image": "https://images.metmuseum.org/CRDImages/ao/original/vs1979_206_537.jpg",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1979_206_537.jpg",
+      "objectName": "Mask",
+      "accessionNumber": "1979.206.537",
+      "classification": "Stone-Sculpture",
+      "medium": "Basalt (andesite)",
+      "dimensions": "H. 5 1/2 x W. 5 x D. 2 3/4 in. (14 x 12.7 x 7 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "Guerrero",
+        "county": "",
+        "country": "Mexico",
+        "region": "Mesoamerica",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Faces"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "manual replacement",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met API manual underrepresented mask replacements"
+      ],
+      "diversityGroup": "Mezcala",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/312746",
+      "lastFetchedAt": "2026-06-17T15:13:43.080Z",
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:17:00.245Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-17T16:49:01.338Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 1492,
+          "sourceHeight": 1531,
+          "sourceWidth": 1278,
+          "width": 1270,
+          "x": 8,
+          "y": 39
+        }
+      },
+      "localOriginal": "/objects/312746/original.jpg",
+      "localCutout": "/objects/312746/cutout.png",
+      "localCutoutUsable": true,
+      "imageAnalysis": {
+        "originalWidth": 1278,
+        "originalHeight": 1531,
+        "originalMegapixels": 1.96,
+        "cutoutBox": {
+          "x": 3,
+          "y": 10,
+          "width": 414,
+          "height": 492
+        },
+        "cutoutAspectRatio": 1.188,
+        "cutoutFillRatio": 0.411,
+        "symmetryScore": 0.739,
+        "centerScore": 0.991,
+        "imageQualityScore": 0.274,
+        "frontFacingScore": 0.805,
+        "displayScore": 0.582,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/312746/thumb.webp"
     },
     {
       "objectID": 316445,
@@ -9811,13 +11924,15 @@
         "internalBackdropRejected": false,
         "qualityStatus": "accepted",
         "restoreFrame": {
-          "height": 588,
+          "height": 527,
           "sourceHeight": 603,
           "sourceWidth": 700,
-          "width": 604,
-          "x": 37,
-          "y": 15
-        }
+          "width": 541,
+          "x": 67,
+          "y": 45
+        },
+        "manualEditedAt": "2026-06-17T13:48:53.802Z",
+        "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
         "originalWidth": 700,
@@ -9902,6 +12017,103 @@
       "localCutoutUsable": true,
       "lastSeenAt": "2026-06-15T22:06:39.987Z",
       "localThumbnail": "/objects/318622/thumb.webp"
+    },
+    {
+      "objectID": 61088,
+      "title": "Mask of a Lion",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/61088",
+      "culture": "China",
+      "period": "Han dynasty (206 BCE–220 CE)",
+      "date": "",
+      "department": "Asian Art",
+      "image": "https://images.metmuseum.org/CRDImages/as/original/18_43_4.JPG",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/18_43_4.JPG",
+      "objectName": "Mask",
+      "accessionNumber": "18.43.4",
+      "classification": "Metalwork",
+      "medium": "Pewter",
+      "dimensions": "Diam. 2 in. (5.1 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Masks"
+      ],
+      "maskMatch": {
+        "strength": "targeted",
+        "fields": [
+          "manual replacement",
+          "title",
+          "objectName"
+        ]
+      },
+      "sourceQueries": [
+        "Met API manual underrepresented mask replacements"
+      ],
+      "diversityGroup": "China",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/61088",
+      "lastFetchedAt": "2026-06-17T15:18:56.985Z",
+      "localOriginal": "/objects/61088/original.jpg",
+      "localCutout": "/objects/61088/cutout.png",
+      "localCutoutUsable": true,
+      "imageProcessing": {
+        "provider": "local",
+        "backgroundRemovedAt": "2026-06-17T15:19:21.494Z",
+        "status": "complete",
+        "internalBackdropComponentsRemoved": 0,
+        "internalBackdropPixelsRemoved": 0,
+        "internalBackdropRejected": false,
+        "localHoleComponentsRemoved": 0,
+        "localHolePixelsRemoved": 0,
+        "localShadowComponentsRemoved": 0,
+        "localShadowPixelsRemoved": 0,
+        "localShadowFinePixelsRemoved": 0,
+        "localEdgeBackdropPixelsRemoved": 0,
+        "localEdgeDetachedPixelsRemoved": 0,
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-18T16:35:39.642Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 499,
+          "sourceHeight": 581,
+          "sourceWidth": 651,
+          "width": 503,
+          "x": 56,
+          "y": 72
+        }
+      },
+      "imageAnalysis": {
+        "originalWidth": 651,
+        "originalHeight": 581,
+        "originalMegapixels": 0.38,
+        "cutoutBox": {
+          "x": 20,
+          "y": 20,
+          "width": 380,
+          "height": 349
+        },
+        "cutoutAspectRatio": 0.918,
+        "cutoutFillRatio": 0.739,
+        "symmetryScore": 0.863,
+        "centerScore": 0.981,
+        "imageQualityScore": 0,
+        "frontFacingScore": 0.854,
+        "displayScore": 0.495,
+        "hasVisibleCutout": true,
+        "lowerPriorityObject": false,
+        "displayEligible": true
+      },
+      "localThumbnail": "/objects/61088/thumb.webp"
     },
     {
       "objectID": 317783,
@@ -10027,7 +12239,7 @@
           "x": 18,
           "y": 17
         },
-        "manualEditedAt": "2026-06-16T16:50:38.878Z",
+        "manualEditedAt": "2026-06-16T19:40:54.128Z",
         "manualEditedWith": "detail-magic-wand"
       },
       "imageAnalysis": {
@@ -10269,7 +12481,17 @@
         "localShadowFinePixelsRemoved": 0,
         "localEdgeBackdropPixelsRemoved": 0,
         "localEdgeDetachedPixelsRemoved": 0,
-        "qualityStatus": "accepted"
+        "qualityStatus": "accepted",
+        "manualEditedAt": "2026-06-16T19:44:43.743Z",
+        "manualEditedWith": "detail-magic-wand",
+        "restoreFrame": {
+          "height": 456,
+          "sourceHeight": 773,
+          "sourceWidth": 850,
+          "width": 518,
+          "x": 237,
+          "y": 152
+        }
       },
       "imageAnalysis": {
         "originalWidth": 850,
@@ -12065,12 +14287,59 @@
       },
       "lastSeenAt": "2026-06-15T22:06:39.987Z",
       "localThumbnail": "/objects/221776/thumb.webp"
+    },
+    {
+      "objectID": 316631,
+      "title": "Orufanran Costume Attachment: Leopard Head",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/316631",
+      "culture": "Yoruba peoples, Owo group",
+      "period": "",
+      "date": "17th–19th century",
+      "department": "The Michael C. Rockefeller Wing",
+      "image": "https://images.metmuseum.org/CRDImages/ao/original/1991.162.5.JPG",
+      "imageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/1991.162.5.JPG",
+      "objectName": "Costume element",
+      "accessionNumber": "1991.162.5",
+      "classification": "Bone/Ivory-Ornaments",
+      "medium": "Ivory, wood or coconut shell",
+      "dimensions": "H. 6 in. × W. 2 9/16 in. × D. 1 1/4 in. (15.2 × 6.5 × 3.2 cm)",
+      "geography": {
+        "type": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "Nigeria",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": ""
+      },
+      "tags": [
+        "Masks",
+        "Leopards"
+      ],
+      "maskMatch": {
+        "strength": "direct",
+        "fields": [
+          "tags"
+        ]
+      },
+      "sourceQueries": [
+        "african mask",
+        "yoruba mask",
+        "helmet mask africa"
+      ],
+      "diversityGroup": "African",
+      "isPublicDomain": true,
+      "apiURL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/316631",
+      "lastFetchedAt": "2026-06-17T14:54:53.410Z"
     }
   ],
-  "processedAt": "2026-06-15T23:52:49.045Z",
+  "processedAt": "2026-06-17T15:19:25.868Z",
   "processing": {
     "provider": "local",
     "localObjectsPath": "/objects/{objectID}/",
-    "processedCount": 141
+    "processedCount": 4
   }
 }
